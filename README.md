@@ -1,8 +1,6 @@
 # DemoChen's Clip
 
-## Why
-
-在[高效阅读英语信息的方法](https://demochen.com/posts/111501/)提到我英语信息源占比越来越大，同时在[immersive-translate](https://github.com/immersive-translate/immersive-translate )的加持下，我逐渐喜欢上看英语内容，但是对自己阅读过的文字希望能保存下载。
+在[高效阅读英语信息的方法](https://demochen.com/posts/111501/)提到我英语信息源占比越来越大，同时在[immersive-translate](https://github.com/immersive-translate/immersive-translate )的加持下，我逐渐喜欢上看英语内容，但是对自己阅读过的文字希望能将「双语」版本保存下载，供后续查阅。
 
 于是，我想到了两种方式，分别是保存到稍后读（[Readwise Reader](https://blog.readwise.io/readwise-reading-app/)）中或者下载到本地；前者会造成信息冗余，后者会加重本地管理压力，都是满意的方案。
 
@@ -10,7 +8,7 @@
 
 在巨人的肩膀上，我的 **DemoChen's Clip** 复刻成功。
 
-## What
+## 说明
 
 1. 本站的内容不是原创，仅是保存一些阅读记录；
 2. 大部分文章会提供**双语版本**，翻译工具来自 [immersive-translate](https://github.com/immersive-translate/immersive-translate )；
