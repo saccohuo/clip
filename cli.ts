@@ -268,7 +268,7 @@ async function main() {
     books["archive"] = {
       summary: [],
       introduction: {
-        title: "简介",
+        title: "Hello",
         path: "README.md",
       },
       config: originalBookConfig,
