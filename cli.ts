@@ -384,7 +384,8 @@ async function main() {
       if (chapter.frontMatter) {
         const extra = chapter.frontMatter.extra;
         if (extra && extra.source) {
-          markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
+          markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>
+`;
         }
       }
       targetMarkdownFiles[chapter.relativePath] = markdownContent;
@@ -617,9 +618,8 @@ async function main() {
 
           dayNoteContent += `- [${subSection.title}](${subSection.source})`;
           if (subSection.title !== subSection.originalTitle) {
-            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${
-              subSection.path.slice(0, -8)
-            }))`;
+            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${subSection.path.slice(0, -8)
+              }))`;
           }
           dayNoteContent += "\n";
         }
@@ -695,8 +695,7 @@ ${body}
       await fs.ensureDir(distDir);
       const epubNewPath = path.join(
         distDir,
-        `${
-          slug(originalBookConfig.book.title as string)
+        `${slug(originalBookConfig.book.title as string)
         }-${keyType}-${key}.epub`,
       );
       await Deno.copyFile(epubPath, epubNewPath);
@@ -714,8 +713,7 @@ ${body}
           "-q",
           path.join(
             distDir,
-            `${
-              slug(originalBookConfig.book.title as string)
+            `${slug(originalBookConfig.book.title as string)
             }-${keyType}-${key}-html.zip`,
           ),
           "./",

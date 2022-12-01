@@ -1,5 +1,5 @@
 ---
-title: "The Age of Social Media Is Ending"
+title: "社交媒体时代即将结束"
 date: 2022-12-01T22:59:21+08:00
 updated: 2022-12-01T22:59:21+08:00
 taxonomies:

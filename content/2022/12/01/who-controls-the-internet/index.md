@@ -13,7 +13,6 @@ extra:
 ---
 
 ### A look at diversity of authoritative NS records in gTLDs
-
 ### 了解 gTLD 中权威 NS 记录的多样性
 
 November 15th, 2022
