@@ -8,7 +8,7 @@
 
 在巨人的肩膀上，我的 **DemoChen's Clip** 复刻成功。
 
-## 说明
+说明：
 
 1. 本站的内容不是原创，仅是保存一些阅读记录；
 2. 大部分文章会提供**双语版本**，翻译工具来自 [immersive-translate](https://github.com/immersive-translate/immersive-translate )；
