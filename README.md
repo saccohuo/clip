@@ -1,4 +1,4 @@
-# DemoChen's Clip
+# hi, DemoChen's Clip
 
 在[高效阅读英语信息的方法](https://demochen.com/posts/111501/)提到我英语信息源占比越来越大，同时在[immersive-translate](https://github.com/immersive-translate/immersive-translate )的加持下，我逐渐喜欢上看英语内容，但是对自己阅读过的文字希望能将「双语」版本保存下载，供后续查阅。
 
