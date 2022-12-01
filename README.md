@@ -1,75 +1,16 @@
-# Clip
+# DemoChen's Clip
 
-这是 <https://clip.owenyoung.com/> 项目的模版项目，如果你想复制一个类似的项目请从这里开始。
+## Why
 
-## 流程
+在[高效阅读英语信息的方法](https://demochen.com/posts/111501/)提到我英语信息源占比越来越大，同时在[immersive-translate](https://github.com/immersive-translate/immersive-translate )的加持下，我逐渐喜欢上看英语内容，但是对自己阅读过的文字希望能保存下载。我想到了两种方式，分别是保存到稍后读（[Readwise Reader](https://blog.readwise.io/readwise-reading-app/)中或者下载到本地；前者会造成信息冗余，后者会加重本地管理压力。
 
-使用 <https://github.com/theowenyoung/markdownload> 浏览器扩展，把网页的文章，按日期保存到本地，然后用<https://rust-lang.github.io/mdBook/> 生成网页，并使用[Vercel](https://vercel.com/dashboard)发布。
+在群里和和 [@OwenYoung](https://www.owenyoung.com/about/ ) 表达了想法，他和我说：前两天刚好搭建了一个类似的项目：[Owen's Clip](https://clip.owenyoung.com/ )，于是我申请复刻（白嫖）了。
 
-Online Demo: <https://clip-template.vercel.app/>
+在他的帮助下，我的 DemoChen's Clip 复刻成功。
 
-## 如何使用？
+## What
 
-> 注意，当前我只测试了 macos 和 linux，没有 windows 机器，但是欢迎贡献～
-
-1. 点此[Fork](https://github.com/theowenyoung/clip-template/fork) 本项目到你的自己的 Github 账户, 你可以改名为`clip`。
-
-2. 本地克隆你 fork 后的项目，记得要克隆到`Downloads`目录，因为浏览器扩展下载的文章只允许下载到`Downloads`目录：
-
-> 记得把下面的地址换成你的 repo 地址
-
-```bash
-cd ~/Downloads
-git clone git@github.com:theowenyoung/clip.git
-```
-
-3. 本地安装依赖，依赖的二进制完美都会安装在当前项目目录下的`bin`目录内，这样不会污染别的地方，这个命令会安装`mdbook`,`deno`到本地目录：
-
-```bash
-cd ~/Downloads/clip
-make install
-```
-
-4. 本地启动运行
-
-```bash
-make serve
-```
-
-此时，打开 <http://localhost:8000> 应该就能看到文章。
-
-文章都是保存在`content/2022/11/14/{slug}/index.md`的，如果有图片，图片也保存在该目录下。我使用我修改的一个[插件](https://github.com/theowenyoung/markdownload),它负责把文章保存到本地目录下。
-
-![](https://i.imgur.com/pTvQQ1h.png)
-
-5. 安装插件，请在<https://github.com/theowenyoung/markdownload/releases> 下载最新版插件，firefox 浏览器可以打开`about:addons`页面，选择从文件安装。 chrome 浏览器手动安装步骤请参考[这里](https://github.com/immersive-translate/immersive-translate/blob/main/readme.md#chrome-%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
-
-6. 安装后，可以从浏览器的扩展页面，进入该扩展的配置页面，然后导入我的这个[配置文件](https://raw.githubusercontent.com/theowenyoung/clip-template/main/markdownload-config.json)，之后，可以按照你自己的需求修改配置。
-
-现在可以打开一篇文章,比如：
-
-<https://www.owenyoung.com/inspires/>
-
-试试使用插件保存文章,保存后，本地运行：
-
-```bash
-make serve
-```
-
-就可以看到预览页面。
-
-7. 发布到 Vercel，直接在 <https://vercel.com/dashboard> 新建一个项目，然后选择从 Github 中导入即可，本项目下已经有`vercel.json` 配置文件了。
-
-## 配置
-
-网站的标题之类的配置都在`book.toml`下，照猫画虎修改即可。 查看所有可配置的东西，请参阅[这里](https://rust-lang.github.io/mdBook/format/configuration/index.html)
-
-## 高级
-
-我在这个项目里会使用 Github Actions，把当日的文章汇总成一个 epub 文件，然后发送 email 到我的 kindle 邮箱里，这样就能在 kindle 阅读这些保存下来的文章。
-
-如果你不修改相关配置的话，默认是不开启的，每日自动输出当日的 epub 文件的。
-
-如果你想启用的话，需要把`.github/workflows/build-daily.yml`里面的注释去掉，然后发送 email 需要用到 <https://www.mailjet.com/>的 API，免费额度每日 200 封，足够个人使用。
-
-具体配置可以参考我的 [clip 配置](https://github.com/theowenyoung/clip/blob/main/.github/workflows/build-daily.yml)，等有人需要，我再完善这部分文档吧，或者欢迎你贡献呀！
+1. 本站的内容不是原创，仅是保存一些阅读记录；
+2. 大部分文章会提供双语版本，翻译工具来自 [immersive-translate](https://github.com/immersive-translate/immersive-translate )；
+3. 更新频次不定，可能 3篇/天，也可能 1篇/周，我有空就更；
+4. 为了你我安全起见，「敏感信息」暂时不考虑更新，后续说不准。
