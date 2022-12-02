@@ -8,13 +8,10 @@ extra:
   source: https://lcamtuf.coredump.cx/photo_basics/
   hostname: lcamtuf.coredump.cx
   author: 
-  original_title: "极客摄影"
+  original_title: "Photography for geeks"
   original_lang: en
 ---
 
-## Photography for geeks
-
-## 极客摄影
 
 Billions of people carry cameras in their pockets and use them to document their lives. Yet, despite the democratization of photo hardware, the knowledge of photographic techniques remains elusive. Countless books, webpages, and YouTube videos purport to offer advice, but tend to dwell on topics of little consequence to most hobbyists - such as shopping for gear or memorizing made-up rules of composition that seldom make for a good shot.
 
