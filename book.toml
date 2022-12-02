@@ -3,15 +3,21 @@ title = "DemoChen's Clip"
 description = "DemoChen's Clip"
 src = "content"
 language = "zh"
-authors = ["Owen Young"]
+authors = ["DemoChen"]
 
 [output.html]
+default-theme = "rust"
 base_url = "https://clip-template.vercel.app/"
 git-repository-url = "https://github.com/theowenyoung/clip-template"
-edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
+# edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 
 [output.html.search]
-enable = false
+enable = true
+
+[output.html.print]
+enable = false    # include support for printable output
+page-break = false # insert page-break after each chapter
+
 
 [output.markdown]
 enable = true
