@@ -1,6 +1,6 @@
 # hi, DemoChen's Clip
 
- <img src="./cover.jpg" width = "" height = "400" alt="DemoChen's Clip" />
+ <img src="https://img-res-md.oss-cn-beijing.aliyuncs.com/img/cover.jpg?from=picgo" width = "" height = "400" alt="DemoChen's Clip" />
 
  <br/>
 
