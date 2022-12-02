@@ -10,10 +10,10 @@
 
 工作流程：
 
-- 浏览网页的时 [immersive-translate](https://github.com/immersive-translate/immersive-translate ) 完成中英文对照翻译；
-- 如有必要，用 [markdownload](https://github.com/theowenyoung/markdownload ) 插件将其下载到本站对应目录；
-- 再通过 Git 将文章对应文件提交至[本站仓库](https://github.com/helloChenLei/clip);
-- 最后由 [Vercel](https://vercel.com/) 自动化完成部署。
+- 浏览网页时用 [immersive-translate](https://github.com/immersive-translate/immersive-translate ) 完成中英文对照翻译；
+- 如有必要，再用 [markdownload](https://github.com/theowenyoung/markdownload ) 插件将其下载到本站对应目录；
+- 接着，通过 Git 将文章对应文件提交至[本站仓库](https://github.com/helloChenLei/clip);
+- 最后，[Vercel](https://vercel.com/) 会自动化完成部署。
 
 说明：
 
