@@ -3,6 +3,7 @@ import * as fs from "https://deno.land/std@0.159.0/fs/mod.ts";
 import { extract } from "https://deno.land/std@0.159.0/encoding/front_matter.ts";
 import { DateTimeFormatter } from "https://deno.land/std@0.159.0/datetime/formatter.ts";
 import * as path from "https://deno.land/std@0.159.0/path/mod.ts";
+import { Feed, FeedOptions } from "https://esm.sh/feed@4.2.2";
 import {
   parse as parseTOML,
   stringify,
@@ -17,6 +18,16 @@ import { Base64 } from "https://deno.land/x/bb64@1.1.0/mod.ts";
 import { config } from "https://deno.land/std@0.166.0/dotenv/mod.ts";
 import transliteration from "https://jspm.dev/transliteration@2.3.5";
 import { default as kebabCase } from "https://jspm.dev/lodash@4.17.21/kebabCase";
+import { gfm } from "https://esm.sh/micromark-extension-gfm@2.0.1";
+import {
+  gfmFromMarkdown,
+  gfmToMarkdown,
+} from "https://esm.sh/mdast-util-gfm@2.0.1";
+// import { default as kebabCase } from "https://jspm.dev/lodash@4.17.21/kebabCase";
+import { toMarkdown } from "https://esm.sh/mdast-util-to-markdown@1.3.0";
+import { fromMarkdown } from "https://esm.sh/mdast-util-from-markdown@1.2.0";
+import { visit } from "https://esm.sh/unist-util-visit@4.1.1";
+import showdown from "https://esm.sh/showdown@2.1.0";
 // @ts-ignore: npm module
 const _slug = transliteration.slugify;
 export const SECOND = 1e3;
@@ -77,6 +88,7 @@ interface BookConfig {
   base_url: string;
   mail?: Record<string, string>;
   book: Record<string, unknown>;
+  preprocessor: Record<string, Record<string, string>>;
   output: OutputOptions;
 }
 interface SubSection {
@@ -177,13 +189,22 @@ async function main() {
   const workDir = new URL(".", import.meta.url).pathname;
   const bookToml = await Deno.readTextFile(`${workDir}/book.toml`);
   const originalBookConfig = parseTOML(bookToml) as unknown as BookConfig;
-  const baseUrl = originalBookConfig.base_url || "";
+  let baseUrl = "";
+  if (
+    originalBookConfig.base_url
+  ) {
+    baseUrl = originalBookConfig.base_url;
+  }
+
+  const isServe = flags.serve;
+  if (isServe) {
+    baseUrl = "http://localhost:8000";
+  }
   let mailConfig = {};
   if (originalBookConfig.output && originalBookConfig.output.mail) {
     mailConfig = originalBookConfig.output.mail;
   }
   const binDir = new URL("./bin", import.meta.url).pathname;
-  const isServe = flags.serve;
 
   // walk content directory
   let outputOptions = originalBookConfig.output;
@@ -191,7 +212,6 @@ async function main() {
   if (Deno.env.get("JOURNAL_PATH")) {
     blogRepoPath = path.join(
       Deno.env.get("JOURNAL_PATH")!,
-      "content/blog/journals",
     );
   }
 
@@ -202,18 +222,20 @@ async function main() {
   if (daysBooksKeys.length > 0) {
     const keys = Object.keys(dayBooks);
     for (const key of keys) {
+      const dayConfig = JSON.parse(
+        JSON.stringify(originalBookConfig),
+      ) as BookConfig;
       if (!isServe && key !== "archive") {
         outputOptions = {
           ...outputOptions,
         };
-        if (flags.epub) {
-          outputOptions.epub = {
-            "optional": true,
-            "cover-image": "cover.jpg",
-            "command": binDir + "/mdbook-epub",
-            "use-default-css": false,
-          };
-        }
+        outputOptions.epub = {
+          "optional": true,
+          "cover-image": "cover.jpg",
+          "command": binDir + "/mdbook-epub",
+          "use-default-css": false,
+        };
+        dayConfig.output = outputOptions;
       }
       const days = dayBooks[key];
       // check if the day exists
@@ -247,9 +269,6 @@ async function main() {
             ],
           });
         }
-        const dayConfig = JSON.parse(
-          JSON.stringify(originalBookConfig),
-        ) as BookConfig;
         dayConfig.book.title = dayConfig.book.title + " " + key;
         dayConfig.book.description = dayConfig.book.description + " " + key;
         books[`${key}`] = {
@@ -364,7 +383,6 @@ async function main() {
     const targetMarkdownFiles: Record<string, string> = {};
     const allFiles: string[] = [];
     for (const chapter of chapters) {
-      // console.log(chapter.path);
       let markdownContent = `# ${chapter.title}\n\n`;
       // if title is not the same as original title
       if (chapter.frontMatter) {
@@ -384,8 +402,7 @@ async function main() {
       if (chapter.frontMatter) {
         const extra = chapter.frontMatter.extra;
         if (extra && extra.source) {
-          markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>
-`;
+          markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
         }
       }
       targetMarkdownFiles[chapter.relativePath] = markdownContent;
@@ -425,7 +442,10 @@ async function main() {
       // ensure folder exists
       const markdownContent = targetMarkdownFiles[relativePath];
       await fs.ensureDir(path.dirname(distPath));
-      await Deno.writeTextFile(distPath, markdownContent);
+      await Deno.writeTextFile(
+        distPath,
+        markdownContent,
+      );
     }
 
     // gen summary
@@ -531,14 +551,18 @@ async function main() {
 
     let summary = `# Summary\n\n`;
     if (book.introduction) {
-      summary += `[${book.introduction.title}](${book.introduction.path})\n\n`;
+      summary += `[${book.introduction.title}](${
+        formatMarkdownPath(book.introduction.path)
+      })\n\n`;
     }
     for (const section of book.summary) {
-      summary += `- [${section.title}](${section.path})\n`;
+      summary += `- [${section.title}](${formatMarkdownPath(section.path)})\n`;
 
       if (section.subSections) {
         for (const subSection of section.subSections) {
-          summary += `  - [${subSection.title}](${subSection.path})\n`;
+          summary += `  - [${subSection.title}](${
+            formatMarkdownPath(subSection.path)
+          })\n`;
         }
       }
     }
@@ -618,8 +642,9 @@ async function main() {
 
           dayNoteContent += `- [${subSection.title}](${subSection.source})`;
           if (subSection.title !== subSection.originalTitle) {
-            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${subSection.path.slice(0, -8)
-              }))`;
+            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${
+              subSection.path.slice(0, -8)
+            }))`;
           }
           dayNoteContent += "\n";
         }
@@ -672,12 +697,12 @@ ${body}
     const bookTomlPath = path.join(bookSourceFileDist, "book.toml");
     await Deno.writeTextFile(bookTomlPath, bookToml);
     console.log(`build book ${key} source files success`);
-    console.log("bookSourceFileDist", bookSourceFileDist);
-
     const p = Deno.run({
-      cmd: ["./bin/mdbook", "build", bookSourceFileDist],
+      cmd: ["../../bin/mdbook", "build"],
+      cwd: bookSourceFileDist,
     });
     await p.status();
+
     const distDir = path.join(workDir, "dist", key);
     serveDistDir = distDir;
     await fs.ensureDir(distDir);
@@ -695,10 +720,12 @@ ${body}
       await fs.ensureDir(distDir);
       const epubNewPath = path.join(
         distDir,
-        `${slug(originalBookConfig.book.title as string)
+        `${
+          slug(originalBookConfig.book.title as string)
         }-${keyType}-${key}.epub`,
       );
       await Deno.copyFile(epubPath, epubNewPath);
+      console.log(`build epub ${epubNewPath} success.`);
 
       // // copy pdf file
       // const pdfPath = path.join(bookSourceFileDist, "book/pdf/output.pdf");
@@ -713,13 +740,15 @@ ${body}
           "-q",
           path.join(
             distDir,
-            `${slug(originalBookConfig.book.title as string)
+            `${
+              slug(originalBookConfig.book.title as string)
             }-${keyType}-${key}-html.zip`,
           ),
           "./",
         ],
         cwd: htmlPath,
       });
+
       await zipProcess.status();
       // send mail
       if (flags.mail) {
@@ -730,6 +759,52 @@ ${body}
         );
       }
     }
+
+    // generate rss items;
+    if (key === "archive") {
+      const feedItems = [];
+      const feedParams: FeedOptions = {
+        title: originalBookConfig.book.title as string,
+        description: originalBookConfig.book.description as string,
+        id: originalBookConfig.base_url,
+        link: originalBookConfig.base_url,
+        language: originalBookConfig.book.language as string, // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+        generator: "clip", // optional, default = 'Feed for Node.js'
+        copyright: "",
+      };
+      const authors = originalBookConfig.book.authors as string[];
+      if (
+        authors &&
+        authors.length > 0
+      ) {
+        feedParams.author = {
+          name: authors[0],
+          link: originalBookConfig.base_url,
+        };
+      }
+
+      // check favicon exists
+
+      const faviconPath = path.join(htmlPath, "favicon.png");
+      if (fs.existsSync(faviconPath)) {
+        feedParams.favicon = `${originalBookConfig.base_url}/favicon.png`;
+      }
+      const feed = new Feed(feedParams);
+      allChapters.slice(0, 25).forEach((post) => {
+        feed.addItem({
+          title: post.title,
+          id: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
+          link: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
+          content: renderMarkdown(post.relativePath, post.content, baseUrl),
+          date: post.date,
+        });
+      });
+      const feedText = feed.atom1();
+      // write to feed.xml
+      const feedPath = path.join(htmlPath, "feed.xml");
+      await Deno.writeTextFile(feedPath, feedText);
+    }
+
     // copy all html files to distDir
     await fs.copy(htmlPath, distDir, { overwrite: true });
     console.log("build book success");
@@ -997,4 +1072,82 @@ function slug(string: string): string {
   const kebab = kebabCase(x);
   const sluged = _slug(kebab);
   return sluged;
+}
+function formatMarkdownPath(path: string): string {
+  // if path include space, add <> wrapper
+  if (path.includes(" ")) {
+    return `<${path}>`;
+  }
+  return path;
+}
+function relativePathToAbsoluteUrl(relativePath: string, host: string): string {
+  if (relativePath.startsWith("content/")) {
+    relativePath = relativePath.slice("content/".length);
+  }
+
+  if (relativePath.endsWith(".md")) {
+    relativePath = relativePath.slice(0, -3) + ".html";
+  }
+  const finalUrl = new URL(relativePath, host).toString();
+  return finalUrl;
+}
+function renderMarkdown(
+  filepath: string,
+  content: string,
+  host: string,
+): string {
+  const formatedMarkdown = formatMarkdown(filepath, content, host);
+  const converter = new showdown.Converter();
+  const html = converter.makeHtml(formatedMarkdown);
+  // to html
+  return html;
+}
+function formatMarkdown(filepath: string, content: string, host: string) {
+  const tree = fromMarkdown(content, "utf8", {
+    extensions: [gfm()],
+    mdastExtensions: [gfmFromMarkdown()],
+  });
+
+  visit(tree, "link", (node) => {
+    const { url } = node;
+    if (url.includes("://")) {
+      return;
+    }
+    // else format internal link
+    node.url = internalMarkdownLinkToAbsoluteUrl(filepath, node.url, host);
+  });
+
+  // change image link
+  visit(tree, "image", (node) => {
+    const { url } = node;
+    if (url.includes("://")) {
+      return;
+    }
+    // else format internal link
+    node.url = internalMarkdownLinkToAbsoluteUrl(filepath, node.url, host);
+  });
+
+  const markdownDist = toMarkdown(tree, {
+    extensions: [gfmToMarkdown()],
+  });
+  return markdownDist;
+}
+
+function internalMarkdownLinkToAbsoluteUrl(
+  currentlink: string,
+  targetlink: string,
+  host: string,
+): string {
+  let parentPath = path.dirname(currentlink);
+  const basename = path.basename(currentlink);
+  if (parentPath.startsWith("content/")) {
+    parentPath = parentPath.slice("content/".length);
+  }
+
+  let finalPath = path.join(parentPath, targetlink);
+  if (finalPath.endsWith(".md")) {
+    finalPath = finalPath.slice(0, -3) + ".html";
+  }
+  const finalUrl = new URL(finalPath, host).toString();
+  return finalUrl;
 }
