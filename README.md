@@ -4,7 +4,7 @@
 
 于是，我想到了两种方式，分别是保存到稍后读（[Readwise Reader](https://blog.readwise.io/readwise-reading-app/)）中或者下载到本地；前者会造成信息冗余（加上对英语不够熟悉会忘记关键词），后者会加重本地管理压力，都不是满意的方案。
 
-在群里和 [@OwenYoung](https://www.owenyoung.com/about/ ) 表达了想法，他和我说：前两天刚好搭建了一个类似的项目：[Owen's Clip](https://clip.owenyoung.com/ )，于是我申请复刻（白嫖）了。
+在群里和 [@OwenYoung](https://www.owenyoung.com/about/ ) 表达了想法，他和我说：前两天刚好搭建了一个类似的项目 [Owen's Clip](https://clip.owenyoung.com/ )，于是我申请复刻（白嫖）了。
 
 不到 1 小时，在巨人的肩膀上，我的 **DemoChen's Clip** 复刻成功。
 
