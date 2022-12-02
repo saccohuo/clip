@@ -1,7 +1,7 @@
 # hi, DemoChen's Clip
 
- <img src="https://img-res-md.oss-cn-beijing.aliyuncs.com/img/cover.jpg" width = "" height = "400" alt="DemoChen's Clip" align=center />
-
+ <img src="https://img-res-md.oss-cn-beijing.aliyuncs.com/img/cover.jpg" width = "" height = "400" alt="DemoChen's Clip" />
+ 
  <br/>
 
 在《[高效阅读英语信息的方法](https://demochen.com/posts/111501/)》中提到，我英语信息源占比越来越大，同时在 [immersive-translate](https://github.com/immersive-translate/immersive-translate ) 的加持下，我逐渐喜欢上看英语内容，但是对自己阅读过的文章希望能将 **「双语」版本** 保存下来，供后续查阅。
