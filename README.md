@@ -25,3 +25,5 @@
 2. 本站内容均不是原创，仅保存自己的阅读记录；
 3. 更新频次不定，可能 3 篇/天，也可能 1 篇/周，有空就更；
 4. 如有侵权，联系删除；邮箱：i#demochen.com (将`#`换成`@`)。
+
+> RSS 订阅：[https://clip.demochen.com/feed.xml](https://clip.demochen.com/feed.xml)
