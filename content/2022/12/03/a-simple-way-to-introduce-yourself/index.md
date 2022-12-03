@@ -7,9 +7,7 @@ taxonomies:
 extra:
   source: https://hbr.org/2022/08/a-simple-way-to-introduce-yourself
   hostname: hbr.org
-  author: by 
-
-Andrea Wojnicki
+  author: by Andrea Wojnicki
   original_title: "A Simple Way to Introduce Yourself"
   original_lang: und
 ---
