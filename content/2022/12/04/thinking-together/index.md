@@ -1,5 +1,5 @@
 ---
-title: "一起思考"
+title: "共同思考 Thinking together"
 date: 2022-12-04T22:50:45+08:00
 updated: 2022-12-04T22:50:45+08:00
 taxonomies:
