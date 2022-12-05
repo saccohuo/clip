@@ -1,5 +1,5 @@
 ---
-title: "对 COVID"
+title: "对 COVID-19 大流行的长期身心后遗症的系统回顾和荟萃分析：呼吁研究重点和行动"
 date: 2022-12-05T15:03:26+08:00
 updated: 2022-12-05T15:03:26+08:00
 taxonomies:
@@ -15,10 +15,6 @@ extra:
 -   [Journal List](https://www.ncbi.nlm.nih.gov/pmc/journals/)
 -   [Nature Public Health Emergency Collection](https://www.ncbi.nlm.nih.gov/pmc/?term=Nature%20Public%20Health%20Emergency%20Collection[filter])
 -   PMC9168643
-
-## 对 COVID-19 大流行的长期身心后遗症的系统回顾和荟萃分析：呼吁研究重点和行动
-
-[Na Zeng](https://pubmed.ncbi.nlm.nih.gov/?term=Zeng%20N%5BAuthor%5D),<sup>#</sup><sup>1,</sup><sup>2,</sup><sup>3</sup> [Yi-Miao Zhao](https://pubmed.ncbi.nlm.nih.gov/?term=Zhao%20YM%5BAuthor%5D),<sup>#</sup><sup>1,</sup><sup>2</sup> [Wei Yan](https://pubmed.ncbi.nlm.nih.gov/?term=Yan%20W%5BAuthor%5D),<sup>#</sup><sup>4</sup> [Chao Li](https://pubmed.ncbi.nlm.nih.gov/?term=Li%20C%5BAuthor%5D),<sup>3</sup> [Qing-Dong Lu](https://pubmed.ncbi.nlm.nih.gov/?term=Lu%20QD%5BAuthor%5D),<sup>1,</sup><sup>2</sup> [Lin Liu](https://pubmed.ncbi.nlm.nih.gov/?term=Liu%20L%5BAuthor%5D),<sup>1,</sup><sup>2</sup> [Shu-Yu Ni](https://pubmed.ncbi.nlm.nih.gov/?term=Ni%20SY%5BAuthor%5D),<sup>1,</sup><sup>2</sup> [Huan Mei](https://pubmed.ncbi.nlm.nih.gov/?term=Mei%20H%5BAuthor%5D),<sup>1,</sup><sup>2</sup> [Kai Yuan](https://pubmed.ncbi.nlm.nih.gov/?term=Yuan%20K%5BAuthor%5D),<sup>4</sup> [Le Shi](https://pubmed.ncbi.nlm.nih.gov/?term=Shi%20L%5BAuthor%5D),<sup>4</sup> [Peng Li](https://pubmed.ncbi.nlm.nih.gov/?term=Li%20P%5BAuthor%5D),<sup>4</sup> [Teng-Teng Fan](https://pubmed.ncbi.nlm.nih.gov/?term=Fan%20TT%5BAuthor%5D),<sup>4</sup> [Jun-Liang Yuan](https://pubmed.ncbi.nlm.nih.gov/?term=Yuan%20JL%5BAuthor%5D),<sup>4</sup> [Michael V Vitiello](https://pubmed.ncbi.nlm.nih.gov/?term=Vitiello%20MV%5BAuthor%5D),<sup>5</sup> [Thomas Kosten](https://pubmed.ncbi.nlm.nih.gov/?term=Kosten%20T%5BAuthor%5D),<sup>6</sup> [Alexandra L Kondratiuk](https://pubmed.ncbi.nlm.nih.gov/?term=Kondratiuk%20AL%5BAuthor%5D),<sup>7</sup> [Hong-Qiang Sun](https://pubmed.ncbi.nlm.nih.gov/?term=Sun%20HQ%5BAuthor%5D),<sup>4</sup> [Xiang-Dong Tang](https://pubmed.ncbi.nlm.nih.gov/?term=Tang%20XD%5BAuthor%5D),<sup>8</sup> [Mei-Yan Liu](https://pubmed.ncbi.nlm.nih.gov/?term=Liu%20MY%5BAuthor%5D),<sup>9</sup> [Ajit Lalvani](https://pubmed.ncbi.nlm.nih.gov/?term=Lalvani%20A%5BAuthor%5D),<sup>7</sup> [Jie Shi](https://pubmed.ncbi.nlm.nih.gov/?term=Shi%20J%5BAuthor%5D),<sup><img src="corrauth.gif" alt="通讯作者"></sup><sup>1</sup> [Yan-Ping Bao](https://pubmed.ncbi.nlm.nih.gov/?term=Bao%20YP%5BAuthor%5D),<sup><img src="corrauth.gif" alt="通讯作者"></sup><sup>1,</sup><sup>2</sup> and [Lin Lu](https://pubmed.ncbi.nlm.nih.gov/?term=Lu%20L%5BAuthor%5D)<sup><img src="corrauth.gif" alt="通讯作者"></sup><sup>1,</sup><sup>4,</sup><sup>10</sup>
 
 ## Abstract
 
