@@ -1,5 +1,5 @@
 ---
-title: "The Blind Men, the Elephant, and the 3 Data Mistakes"
+title: "盲人、大象和 3 个数据错误"
 date: 2022-12-05T13:27:06+08:00
 updated: 2022-12-05T13:27:06+08:00
 taxonomies:
@@ -11,8 +11,6 @@ extra:
   original_title: "The Blind Men, the Elephant, and the 3 Data Mistakes"
   original_lang: en
 ---
-
-## 盲人、大象和 3 个数据错误
 
 ![](1mGBlY_PcKOHkw9Ar3r82Nw.jpeg)
 
