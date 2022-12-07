@@ -12,7 +12,6 @@ extra:
   original_lang: en
 ---
 
-## 学生心理健康危机比我们想象的要严重得多
 
 Lucy Wegener, then 13, center right, an organizer with Arizona Students for Mental Health, listens to attendees at a vigil on Sept. 10 in Chandler, Ariz. (Caitlin O’Hara for The Washington Post)
 
