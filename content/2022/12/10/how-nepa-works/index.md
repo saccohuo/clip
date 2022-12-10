@@ -16,11 +16,7 @@ The National Environmental Policy Act (NEPA) is a piece of federal environmental
 
 ”开始之际通过 [《国家环境政策法》(NEPA) 是一项联邦环境立法，于 1969 年在环境法“永恒的九月](https://en.wikipedia.org/wiki/Eternal_September#:~:text=Eternal%20September%20or%20the%20September,ability%20to%20enforce%20existing%20norms.) ，因其影响力而常被称为环境法的“大宪章”一直在制定环境政策。 ”的形式， [NEPA 不仅对联邦政府的行为产生重大影响，而且该法律还作为一个模板被州政府（以“小 NEPA](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/5891/P.%20Marchman%20Little%20NEPAs_Final_w%20endnotes.pdf?sequence=1#:~:text=The%20little%20NEPAs%20of%20Indiana,citizens%20take%20for%20granted%20today.) 如加利福尼亚州的 CEQA）和其他国家广泛复制。
 
-[
-
-![](https3A2F2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com2Fpublic2Fimages2Fcabd9024-dfea-4f75-88c1-1328fc49e198_490x272.png)
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcabd9024-dfea-4f75-88c1-1328fc49e198_490x272.png)
+![](https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcabd9024-dfea-4f75-88c1-1328fc49e198_490x272.png)
 
 Environmental laws over time. Not shown: another 30 years of environmental laws
 
