@@ -12,11 +12,8 @@ extra:
   original_lang: en
 ---
 
-[
 
 ![Images_of_Money 的“粉碎存钱罐”已获得 CC BY 2.0 许可](https3A2F2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com2Fpublic2Fimages2Fc256f2cb-588b-4991-9ad5-e927e18a9e83_1024x768.jpeg "Images_of_Money 的“粉碎存钱罐”已获得 CC BY 2.0 许可")
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc256f2cb-588b-4991-9ad5-e927e18a9e83_1024x768.jpeg)
 
 Those who pay attention to business news have probably noted an interesting and curious phenomenon over the past few months: China is smashing its internet companies. It started — or at least, most people in the U.S. started noticing it — when the government effectively [canceled the IPO of Ant Financial](https://www.bloomberg.com/news/articles/2020-12-16/ant-conducting-self-review-after-35-billion-ipo-collapses?sref=R8NfLgwS), then dismantled the company. Jack Ma, the founder of Ant and of e-commerce giant Alibaba, was summoned to a meeting with the government and then disappeared for weeks. The government then levied a multi-billion dollar antitrust fine against Alibaba (which is sometimes compared to Amazon), deleted its popular web browser from app stores, and took a bunch of other actions against it. The value of Ma’s business empire [has collapsed](https://www.forbes.com/sites/georgecalhoun/2021/06/07/the-sad-end-of-jack-ma-inc/?sh=1fcd4012123a).
 
@@ -86,12 +83,7 @@ It’s easy for Americans to forget this now, but there was a time when “abili
 
 现在美国人很容易忘记这一点，但曾经有一段时间，“赢得战争的能力”是 [技术创新的驱动目标](https://www.jump-startingamerica.com/) 。 NDRC [。](https://en.wikipedia.org/wiki/National_Defense_Research_Committee) 和 [OSRD](https://en.wikipedia.org/wiki/Office_of_Scientific_Research_and_Development) 是第二次世界大战中政府资助研究和技术的推动力，NSF 和 DARPA 就是从这一传统中发展而来的 传统上，国防支出一直是 [。](https://www.bloomberg.com/opinion/articles/2019-12-04/military-spending-on-r-d-is-a-boon-for-the-private-sector?sref=R8NfLgwS) 美国政府研究支出的重要组成部分，美国许多最成功的私营部门科技产业在某种程度上都是这些与国防相关的努力的衍生产品
 
-[
-
 ![](https3A2F2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com2Fpublic2Fimages2F14b93bb7-b5c1-4bed-9741-d59eb3a104e0_587x438.png)
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14b93bb7-b5c1-4bed-9741-d59eb3a104e0_587x438.png)
-
 After the Cold War, our priorities shifted from survival to enjoyment. Technologies like Facebook and Amazon.com, which are fundamentally about leisure and consumption, went from being fun and profitable spinoffs of defense efforts to the center of what Americans thought of as “tech”.
 
 冷战结束后，我们的首要任务从生存转向享受。 像 Facebook 和 Amazon.com 这样从根本上与休闲和消费有关的技术，从国防努力的有趣和有利可图的衍生产品变成了美国人所认为的“技术”的中心。
