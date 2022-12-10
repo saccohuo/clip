@@ -24,6 +24,10 @@ Here are seven more to complete the baker’s dozen.
 
 这里还有七个来完成面包师的一打。
 
+## [Middle Class Shanghai, by Cheng Li](https://www.amazon.com/Middle-Class-Shanghai-U-S-China-Engagement-ebook/dp/B0BL8PQPP5/)
+
+## [上海中产阶级](https://www.amazon.com/Middle-Class-Shanghai-U-S-China-Engagement-ebook/dp/B0BL8PQPP5/) ,李成
+
 This book came highly recommended by people whose viewpoints on China I trust, and I had high hopes for it. So that may be part of why the book left me bitterly and comprehensively disappointed.
 
 这本书得到了我信任的对中国的看法的人的大力推荐，我对它寄予厚望。 所以这可能是这本书让我痛苦而全面地失望的部分原因。
@@ -48,6 +52,10 @@ I do believe that the U.S. and China will be friends someday. They’re natural 
 
 我相信美中终有一天会成为朋友。 他们是天然的盟友，他们过去经常是盟友，大国冲突是一件非常糟糕的事情。 他们的社会和文化比任何人都愿意承认的要相似得多。 但在短期内，这两个社会在 21 世纪初幸福和平地共同成长的希望已经彻底破灭。 _上海的中产阶级_ 感觉像是那个失败梦想的最后一口气。 但总有一天梦想会再次升起。
 
+
+## [China’s Gilded Age, by Yuen Yuen Ang](https://www.amazon.com/Chinas-Gilded-Age-Economic-Corruption-ebook/dp/B087D6QNTM/)
+## [中国的镀金时代](https://www.amazon.com/Chinas-Gilded-Age-Economic-Corruption-ebook/dp/B087D6QNTM/) ，Yuen Yuen Ang
+
 This book is only somewhat about China itself; really, it’s a fascinating study of the relationship between corruption and economic development, using China as an example. The conventional wisdom is that corruption is bad for growth, but Ang argues that this depends on what _type_ of corruption prevails. Basically, she argues, there are two types, which I will paraphrase as:
 
 这本书只是在某种程度上是关于中国本身的； 确实，这是一项关于腐败与经济发展之间关系的有趣研究，以中国为例。 传统观点认为腐败不利于增长，但 Ang 认为这取决于哪种 _类型_ 的腐败盛行。 她认为，基本上有两种类型，我将其解释为：
@@ -57,7 +65,7 @@ This book is only somewhat about China itself; really, it’s a fascinating stud
 2.  government officials letting private businesspeople bribe them into giving them favorable treatment.
     
 
-1.  政府官员挪用国家资金和资产，以及
+1.  国家工作人员贪污国家财物的；
     
 2.  政府官员让私人商人贿赂他们给予他们优惠待遇。
     
@@ -78,6 +86,10 @@ This is basically access money, and if Ang is right, it could help explain how t
 
 这基本上是获取资金，如果 Ang 是对的，它可以帮助解释美国如何崛起为世界首屈一指的工业强国。 这只是美国和中国比他们愿意承认的更相似的另一种方式。
 
+
+## [One Child, by Mei Fong](https://www.amazon.com/One-Child-Chinas-Radical-Experiment-ebook/dp/B00QPHNV4E/)
+## [一个孩子](https://www.amazon.com/One-Child-Chinas-Radical-Experiment-ebook/dp/B00QPHNV4E/),美芳
+
 This book, about the consequences of China’s now-defunct one-child policy, is very well-written. It’s chock full of eye-popping anecdotes, useful statistics, and cogently made arguments. If you’re interested in what China’s society was like in previous decades, you should definitely read it.
 
 这本书写的很好，讲述了中国现已废除的独生子女政策的后果。 它充满了令人瞠目结舌的奇闻轶事、有用的统计数据和令人信服的论据。 如果你对前几十年的中国社会感兴趣，你一定要读一读。
@@ -89,6 +101,10 @@ That said, one of the book’s arguments tends to undermine the importance of th
 Many, but not all of them. The most important effect of the one-child regime, and one which Fong documents extensively, is an increase in social control. The policy gave the Chinese government an excuse to be extremely intrusive into people’s lives, which helped get the populace accustomed to such intrusions. We can see this vividly playing out in the era of Zero Covid, which has in some sense replaced the one-child policy as an excuse for totalitarianism.
 
 很多，但不是全部。 一胎化制度最重要的影响，也是 Fong 广泛记录的影响，是社会控制的加强。 该政策为中国政府提供了极度干预人们生活的借口，这有助于让民众习惯这种干预。 我们可以在“零新冠”时代生动地看到这一点，它在某种意义上取代了独生子女政策成为极权主义的借口。
+
+## [China’s Economy, by Arthur Kroeber](https://www.amazon.com/Chinas-Economy-Everyone-Needs-Know®/dp/0190239034 )
+
+## [中国经济](https://www.amazon.com/Chinas-Economy-Everyone-Needs-Know®/dp/0190239034 ) , Kroeber
 
 This book, recommended to me by Dan Wang, was truly excellent. It doesn’t have anecdotes, but it doesn’t need them; it tells you interesting facts, clearly and plainly. And unlike many books about China’s economy, _China’s Economy_ taught me a lot of stuff that I didn’t already know from reading news articles, academic papers, and think tank reports.
 
@@ -102,6 +118,9 @@ There are many other useful nuggets in this book. Kroeber managed to successfull
 
 本书中还有许多其他有用的内容。 Kroeber 成功地预测了房地产繁荣结束的时间，这本书解释了他的推理——包括，至关重要的是，人均建筑面积正在接近富裕世界的水平。 他还讨论了中国难以从低价值的供应链中间制造转向高价值的先进制造和品牌，这对 [脱钩](https://noahpinion.substack.com/p/the-end-of-the-system-of-the-world) 有明显的影响。 总而言之，这是一本非常易读且非常有用的书。
 
+## [The Long Game, by Rush Doshi](https://www.amazon.com/Long-Game-Strategy-Displace-American-ebook/dp/B0971BRJ6V/)
+## [漫长的游戏 ](https://www.amazon.com/Long-Game-Strategy-Displace-American-ebook/dp/B0971BRJ6V/)，作者：拉什·多西
+
 At the beginning of my reading series, I read a book called _[The Hundred-Year Marathon](https://www.amazon.com/Hundred-Year-Marathon-Strategy-Replace-Superpower-ebook/dp/B00IWUI7B4/ref=sr_1_1?keywords=the+hundred+year+marathon&qid=1641705347&s=digital-text&sprefix=the+hundred+year+ma%2Cdigital-text%2C127&sr=1-1)_, by Michael Pillsbury. I found the tone quite lurid and alarmist, which detracted from the book’s overall message that we should be worried about China’s plans to supplant U.S. hegemony. _The Long Game_ has basically the same thesis, but with the exact opposite tone, which makes it less fun to read but far more convincing (at least to a dry, analytical nerd like myself).
 
 在我的阅读系列开始时，我读了迈克尔·皮尔斯伯里 (Michael Pillsbury) 的一本名为《 _[百年马拉松》(The Hundred-Year Marathon)](https://www.amazon.com/Hundred-Year-Marathon-Strategy-Replace-Superpower-ebook/dp/B00IWUI7B4/ref=sr_1_1?keywords=the+hundred+year+marathon&qid=1641705347&s=digital-text&sprefix=the+hundred+year+ma%2Cdigital-text%2C127&sr=1-1)_ 的书。 我发现这种语气相当耸人听闻和危言耸听，这削弱了本书的整体信息，即我们应该担心中国取代美国霸权的计划。 _The Long Game 的_ 论点基本相同，但语气完全相反，这使得它读起来没那么有趣，但更有说服力（至少对像我这样枯燥、善于分析的书呆子来说是这样）。
@@ -114,6 +133,9 @@ Doshi’s thesis is that “great changes unseen in a century” basically just 
 
 多西的论点是，“百年未有之大变局”基本上就是中国取代美国成为全球霸主。 整本书实际上只是对这种解释的一次冗长而谨慎的辩护。 多西煞费苦心地对中国的措辞和行动进行了一系列可能的替代解释，并表明它们实际上没有意义。 所以现在我们可以非常确定——中国，或者至少是习近平，真的想要取代美国成为全球霸主。 如果你看过新闻，你可能会觉得这很明显，但国际关系人士非常重视这件事，并尽量小心。 或者至少，他们中的一些人这样做。
 
+## [The World According to China, by Elizabeth Economy](https://www.amazon.com/World-According-China-Elizabeth-Economy-ebook/dp/B09KMJMJNN/)
+## [中国眼中的世界 ，伊丽莎白·易明](https://www.amazon.com/World-According-China-Elizabeth-Economy-ebook/dp/B09KMJMJNN/)
+
 [Elizabeth Economy](https://www.foreignaffairs.com/authors/elizabeth-economy) is an extremely knowledgeable and skilled writer, and a perennially great source of China news and analysis. Her fatal weakness as a book author, however, is that she chooses to write books about [extremely up-to-date events](https://noahpinion.substack.com/p/hu-jintao-was-very-underrated), so that by the time the book comes out, events have already moved on. I say this in a tongue-in-cheek manner, because _The World According to China_ is a good and comprehensive book about China’s aforementioned attempts to supplant the U.S. as the global hegemon. It covers technology, diplomacy, economics, internal repression, and so on. But because it came out almost a year ago, and events are moving very fast, it doesn’t include things like [Biden’s recent export controls](https://noahpinion.substack.com/p/biden-declares-economic-war-on-the). If you’re interested in China’s competitive strategy and you want a backgrounder on what it’s been trying to do over the past five or seven years, grab a copy of _The World According to China_ — just realize that you’ll still have to read a lot of news in order to fully catch up.
 
 [Elizabeth Economy](https://www.foreignaffairs.com/authors/elizabeth-economy) 是一位知识渊博、技巧娴熟的作家，并且一直是中国新闻和分析的重要来源。 然而，她作为一个作家的致命弱点是，她选择写关于 [非常新的事件的](https://noahpinion.substack.com/p/hu-jintao-was-very-underrated) 书，以至于当这本书出版时，事件已经发生了。 我以半开玩笑的方式这么说，因为《 _中国眼中的世界》_ 是一本关于中国上述试图取代美国成为全球霸主的很好而全面的书。 它涵盖了技术、外交、经济、内部镇压等等。 但因为它差不多一年前就出来了，而且事态发展得很快，所以它不包括 [拜登最近的出口管制](https://noahpinion.substack.com/p/biden-declares-economic-war-on-the) 之类的东西。 如果你对中国的竞争战略感兴趣，并且想了解它在过去五七年里一直在努力做的事情的背景资料，请拿一本《中国眼中的 _世界》_ ——只是要意识到你仍然需要阅读一本很多新闻才能完全赶上。
@@ -122,31 +144,26 @@ Many people suggested that I read this long and magisterial history of modern Ch
 
 很多人建议我读一读这部宏大的近代中国史，从晚明到1989年天安门大屠杀，我觉得非常有趣和引人入胜。 其中大部分是我已经知道的东西，但有一些花絮对我来说是新的：
 
--   I didn’t realize, until now, how deeply involved Russia was in the creation of the modern Chinese state. Soviet advisors were deeply enmeshed in both the nationalist KMT and the CCP, and were constantly trying to direct the country’s development. Soviet technology and military organization also had a big influence. When you think about Russia-China relations in the era of Putin and Xi, you should probably be aware of this history.
     
 -   I didn’t realize, until now, how deeply involved Russia was in the creation of the modern Chinese state. Soviet advisors were deeply enmeshed in both the nationalist KMT and the CCP, and were constantly trying to direct the country’s development. Soviet technology and military organization also had a big influence. When you think about Russia-China relations in the era of Putin and Xi, you should probably be aware of this history.
     
     直到现在，我才意识到俄罗斯对现代中国国家的创建有多么深入的参与。 苏联顾问深深扎根于民族主义的国民党和中共，并不断试图指导国家的发展。 苏联的技术和军事组织也产生了很大的影响。 当你想到普京和习近平时代的俄中关系时，你可能应该了解这段历史。
     
--   Mao’s leadership strategy was markedly different from that of Xi Jinping, or even other contemporaries like Stalin or Hitler. In order to maintain total control of a huge, fractious, and quickly evolving Chinese state, he provoked all possible rivals into a constant state of internecine warfare. One of his favorite strategies was to elevate a favorite subordinate to a position of prestige and power, then denounce them, and carry out a major campaign designed to purge the manufactured rival’s supposed influence from Chinese culture and society. This strategy was incredibly effective at keeping Mao in supreme power, but had the unfortunate side effect of killing millions of people and making sure the country stayed poor and violent.
     
 -   Mao’s leadership strategy was markedly different from that of Xi Jinping, or even other contemporaries like Stalin or Hitler. In order to maintain total control of a huge, fractious, and quickly evolving Chinese state, he provoked all possible rivals into a constant state of internecine warfare. One of his favorite strategies was to elevate a favorite subordinate to a position of prestige and power, then denounce them, and carry out a major campaign designed to purge the manufactured rival’s supposed influence from Chinese culture and society. This strategy was incredibly effective at keeping Mao in supreme power, but had the unfortunate side effect of killing millions of people and making sure the country stayed poor and violent.
     
     毛泽东的领导战略明显不同于习近平，甚至与斯大林或希特勒等同时代的其他人。 为了保持对庞大、暴躁、快速发展的中国国家的完全控制，他激怒了所有可能的对手，使其陷入持续不断的自相残杀状态。 他最喜欢的策略之一是将最喜欢的下属提升到威望和权力的位置，然后谴责他们，并开展一场旨在从中国文化和社会中清除制造对手的所谓影响的重大运动。 这一策略在保持毛泽东的最高权力方面非常有效，但不幸的是，它的副作用是杀死了数百万人，并确保该国保持贫穷和暴力。
     
--   China’s aforementioned problems with fiscal decentralization date back very far — the Ming dynasty had similar issues.
     
 -   China’s aforementioned problems with fiscal decentralization date back very far — the Ming dynasty had similar issues.
     
     上述中国财政分权的问题可以追溯到很久以前——明朝也有类似的问题。
     
--   As far back as the early 1900s, a lot of people around the world expected China to become the world’s manufacturing hub, based on its massive reservoir of cheap labor. Only the constant internal and externally-imposed chaos delayed this.
     
 -   As far back as the early 1900s, a lot of people around the world expected China to become the world’s manufacturing hub, based on its massive reservoir of cheap labor. Only the constant internal and externally-imposed chaos delayed this.
     
     早在 20 世纪 00 年代初，世界上就有很多人期望中国凭借其庞大的廉价劳动力储备成为世界制造业中心。 只有不断的内部和外部强加的混乱才推迟了这一点。
     
--   I really knew this before, but Spence’s history reinforces the fact that Deng Xiaoping is truly the Great Man of modern Chinese history, for better and for worse. Until Xi came in and started trashing the system Deng built, of course.
     
 -   I really knew this before, but Spence’s history reinforces the fact that Deng Xiaoping is truly the Great Man of modern Chinese history, for better and for worse. Until Xi came in and started trashing the system Deng built, of course.
     
@@ -156,7 +173,3 @@ Many people suggested that I read this long and magisterial history of modern Ch
 So that’s it for the China Book Series. Right now I’m reading a bunch of different stuff, but I’m trying to read all the good books about [WW2 production and public-private cooperation](https://noahpinion.substack.com/p/book-review-freedoms-forge) in that era, in order to better understand how industrial policy can succeed. I still have to read _[Destructive Creation](https://www.amazon.com/Destructive-Creation-American-Business-Politics/dp/0812224310/ref=sr_1_1?crid=AQO6A8YY963N&keywords=destructive+creation&qid=1668890972&s=books&sprefix=destructive+creation%2Cstripbooks%2C165&sr=1-1)_, _[The Economic Consequences of U.S. Mobilization for the Second World War](https://www.amazon.com/Economic-Consequences-Mobilization-Second-World/dp/0300251025/ref=sr_1_1?keywords=economic+consequences+of+u.s.+mobilization+for+the+second+world+war&qid=1668890995&s=books&sprefix=The+Economic+Consequences+of+U.S.+%2Cstripbooks%2C187&sr=1-1)_, _[Tuxedo Park](https://www.amazon.com/Tuxedo-Park-Street-Science-Changed-ebook/dp/B00F8KUJ58/ref=sr_1_1?crid=34M2KPMYN39ZF&keywords=tuxedo+park&qid=1668891108&sprefix=tuxedo+park%2Caps%2C161&sr=8-1)_, and _[The Struggle for Survival](https://www.amazon.com/Struggle-Survival-Eliot-Janeway/dp/B00AGKZPIG/ref=sr_1_4?crid=1FZLWQ865FP2N&keywords=eliot+janeway&qid=1668891022&s=books&sprefix=eliot+janeway%2Cstripbooks%2C143&sr=1-4)_. I’m also planning to read _[The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation-ebook/dp/B005GSZIWG/ref=sr_1_1?keywords=the+idea+factory&qid=1668891092&sprefix=the+idea+facto%2Caps%2C195&sr=8-1)_ (about Bell Labs), and [Markets, Minds, and Money](https://www.amazon.com/Markets-Minds-Money-University-Research-ebook/dp/B082DKMJQX/ref=sr_1_1?crid=24M1I8PZZ5RT4&keywords=markets+minds+and+money&qid=1668891173&sprefix=markets+minds+and+money%2Caps%2C126&sr=8-1) (about the U.S. university system). So I think my next “reading list” post will probably be about industrial policy. As always, let me know if you have any good suggestions!
 
 中国图书系列就是这样。 好书 [现在我正在阅读很多不同的东西，但我正在尝试阅读所有关于那个时代二战生产和公私合作的](https://noahpinion.substack.com/p/book-review-freedoms-forge) ，以便更好地理解产业政策如何取得成功。 我仍然需要阅读 _[破坏性创造](https://www.amazon.com/Destructive-Creation-American-Business-Politics/dp/0812224310/ref=sr_1_1?crid=AQO6A8YY963N&keywords=destructive+creation&qid=1668890972&s=books&sprefix=destructive+creation%2Cstripbooks%2C165&sr=1-1)_ 、 _[二战美国动员的经济后果](https://www.amazon.com/Economic-Consequences-Mobilization-Second-World/dp/0300251025/ref=sr_1_1?keywords=economic+consequences+of+u.s.+mobilization+for+the+second+world+war&qid=1668890995&s=books&sprefix=The+Economic+Consequences+of+U.S.+%2Cstripbooks%2C187&sr=1-1)_ 、 _[燕尾服公园](https://www.amazon.com/Tuxedo-Park-Street-Science-Changed-ebook/dp/B00F8KUJ58/ref=sr_1_1?crid=34M2KPMYN39ZF&keywords=tuxedo+park&qid=1668891108&sprefix=tuxedo+park%2Caps%2C161&sr=8-1)_ 和 _[生存斗争](https://www.amazon.com/Struggle-Survival-Eliot-Janeway/dp/B00AGKZPIG/ref=sr_1_4?crid=1FZLWQ865FP2N&keywords=eliot+janeway&qid=1668891022&s=books&sprefix=eliot+janeway%2Cstripbooks%2C143&sr=1-4)_ 。 我还打算阅读 _[The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation-ebook/dp/B005GSZIWG/ref=sr_1_1?keywords=the+idea+factory&qid=1668891092&sprefix=the+idea+facto%2Caps%2C195&sr=8-1)_ （关于贝尔实验室）和 [Markets, Minds, and Money](https://www.amazon.com/Markets-Minds-Money-University-Research-ebook/dp/B082DKMJQX/ref=sr_1_1?crid=24M1I8PZZ5RT4&keywords=markets+minds+and+money&qid=1668891173&sprefix=markets+minds+and+money%2Caps%2C126&sr=8-1) （关于美国大学系统）。 所以我认为我的下一篇“阅读清单”帖子可能是关于产业政策的。 一如既往，如果您有任何好的建议，请告诉我！
-
-[Share](https://noahpinion.substack.com/p/seven-more-books-on-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
-
-[分享](https://noahpinion.substack.com/p/seven-more-books-on-china?utm_source=substack&utm_medium=email&utm_content=share&action=share)
