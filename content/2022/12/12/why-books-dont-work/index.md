@@ -1,5 +1,5 @@
 ---
-title: "Why books donʼt work"
+title: "为什么书本不起作用"
 date: 2022-12-12T20:50:32+08:00
 updated: 2022-12-12T20:50:32+08:00
 taxonomies:

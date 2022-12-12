@@ -1,5 +1,5 @@
 ---
-title: "Techno"
+title: "2023年的技术乐观主义"
 date: 2022-12-12T20:26:02+08:00
 updated: 2022-12-12T20:26:02+08:00
 taxonomies:
