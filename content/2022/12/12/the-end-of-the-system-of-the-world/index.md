@@ -1,5 +1,5 @@
 ---
-title: "The end of the system of the world"
+title: "世界体系的终结"
 date: 2022-12-12T07:04:04+08:00
 updated: 2022-12-12T07:04:04+08:00
 taxonomies:
