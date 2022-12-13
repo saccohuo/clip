@@ -49,10 +49,8 @@ What follows is a description of what’s coming and a plan for how to navigate 
 
 以下是对即将发生的事情的描述，以及如何驾驭这一新格局的计划。
 
-Part 1 第1部分
-
-## The AI Revolution  
-人工智能革命  
+## Part 1 The AI Revolution  
+## 第一部分 人工智能革命  
 
 On a zoomed-out time scale, technological progress follows an exponential curve. Compare how the world looked 15 years ago (no smartphones, really), 150 years ago (no combustion engine, no home electricity), 1,500 years ago (no industrial machines), and 15,000 years ago (no agriculture).
 
@@ -66,10 +64,9 @@ The technological progress we make in the next 100 years will be far larger than
 
 在接下来的100年里，我们取得的技术进步将远远超过自我们第一次控制火和发明轮子以来取得的所有进步。我们已经建立了可以学习和做有用事情的人工智能系统。它们仍然是原始的，但趋势线是明确的。
 
-Part 2 第二部分
+## Part 2  Moore's Law for Everything  
 
-## Moore's Law for Everything  
-摩尔定律适用于一切事物  
+## 第二部分 摩尔定律适用于一切事物  
 
 Broadly speaking, there are two paths to affording a good life: an individual acquires more money (which makes that person wealthier), or prices fall (which makes everyone wealthier). Wealth is buying power: how much we can get with the resources we have.
 
@@ -99,10 +96,8 @@ We will discover new jobs–we always do after a technological revolution–and 
 
 我们将发现新的工作--我们总是在技术革命之后这样做--由于另一边的丰富，我们将拥有令人难以置信的自由，可以对它们进行创造性的创造。
 
-Part 3 第3部分
-
-## Capitalism for Everyone  
-人人都有资本主义  
+## Part 3 Capitalism for Everyone  
+## 第三部分 人人都有资本主义  
 
 A stable economic system requires two components: growth and inclusivity. Economic growth matters because most people want their lives to improve every year. In a zero-sum world, one with no or very little growth, democracy can become antagonistic as people seek to vote money away from each other. What follows from that antagonism is distrust and polarization. In a high-growth world the dogfights can be far fewer, because it’s much easier for everyone to win.
 
@@ -160,10 +155,8 @@ In a world where everyone benefits from capitalism as an owner, the collective f
 
 在一个每个人都作为所有者从资本主义中受益的世界里，集体的重点将是让世界变得更好，而不是让世界变得更坏。这些方法比它们看起来的更不同，当社会专注于前者时，社会会做得更好。简单地说，更好的意味着优化使馅饼尽可能大，而更少的坏意味着尽可能公平地分配馅饼。两者都可以一次性提高人们的生活水平，但只有当蛋糕变大时，才能实现持续增长。
 
-Part 4 第4部
-
-## Implementation and Troubleshooting  
-实施和故障排除  
+## Part 4 Implementation and Troubleshooting  
+## 第四部分 实施和故障排除  
 
 The amount of wealth available to capitalize the American Equity Fund would be significant. There is about $50 trillion worth of value, as measured by market capitalization, in US companies alone. Assume that, as it has on average over the past century, this will at least double over the next decade.
 
@@ -209,10 +202,8 @@ Finally, we couldn’t let people borrow against, sell, or otherwise pledge thei
 
 最后，我们不能让人们以未来的基金分配为抵押、出售或以其他方式质押，否则我们不会真正解决随着时间的推移公平分配财富的问题。政府可以干脆让这类交易无法执行。
 
-Part 5 第5部
-
-## Shifting to the New System  
-向新系统过渡  
+## Part 5 Shifting to the New System  
+## 第五部分 向新系统过渡  
 
 A great future isn’t complicated: we need technology to create more wealth, and policy to fairly distribute it. Everything necessary will be cheap, and everyone will have enough money to be able to afford it. As this system will be enormously popular, policymakers who embrace it early will be rewarded: they will themselves become enormously popular.
 
