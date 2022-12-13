@@ -59,12 +59,12 @@ But I think this is going to be a massive trend, and very large businesses will 
 
 但我认为这将是一个巨大的趋势，非常大的企业将以此为界面，更广泛地说，这些非常强大的机型将成为真正的新技术平台之一，这是自移动以来我们从未真正拥有过的。而且总是会有新的公司在紧接着爆炸，所以这将是很酷的。
 
-RH：  
+**Reid Hoffman：**   
 And what do you think the key things are, given the large language model we provided as an API service? What are the things that you think that folks who are thinking about these AI businesses should think about as to how you create an enduring differentiated business?
 
 考虑到我们作为API服务提供的大型语言模型，您认为关键是什么？你认为正在考虑这些人工智能业务的人在如何创建持久的差异化业务时应该考虑哪些事情？
 
-SA：  
+**Sam Altman：**  
 I think there will be a small handful of fundamental large models out there that other people build on. But right now what happens is a company makes a large language model (API enabled to build on top of it), and I think there will be a middle layer that becomes really important where… I’m skeptical of all of the startups that are trying to train their own models. I don’t think that’s going to keep going. But what I think will happen is there’ll be a whole new set of startups that take an existing very large model of the future and tune it, which is not just fine tuning, all of the things you can do.
 
 我认为，市场上将会有少数几个基本的大型模型，供其他人构建。但现在发生的事情是，一家公司开发了一个大型语言模型(支持在其上构建应用编程接口)，我认为将会有一个中间层变得非常重要，其中…我对所有试图培养自己模式的初创公司都持怀疑态度。我认为这种情况不会持续下去。但我认为将会发生的是，将会有一系列全新的初创企业，它们利用现有的非常大的未来模型并对其进行调整，这不仅仅是微调，而是你可以做的所有事情。
@@ -73,22 +73,22 @@ I think there’ll be a lot of access provided to create the model for medicine 
 
 我认为将会提供很多途径来创建医学模型，或者使用计算机或朋友或其他任何方式。然后，这些公司将创造大量持久的价值，因为他们将拥有一个特殊的版本。他们不一定要创建基本模型，但他们将创建一些他们可以只为自己使用或与其他人分享的东西，这个独特的数据飞轮正在运行，随着时间的推移不断改进等等。因此，我认为中间层将创造大量价值。
 
-RH：  
+**Reid Hoffman：**   
 And what do you think some of the most surprising ones will be? It’s a little bit like, for example, a surprise from a couple years ago – we talked a little bit to Kevin Scott about this morning as we opened up – which is train on the internet, do code. So what do you think some of the surprises will be if you didn’t realize it reached that far?
 
 你认为最令人惊讶的会是什么？这有点像，例如，几年前的一个惊喜--今天早上我们开业的时候和凯文·斯科特聊了一会儿--那就是在互联网上训练，做代码。那么，如果你没有意识到这一点，你认为会有什么惊喜呢？
 
-SA：  
+**Sam Altman：**  
 I think the biggest systemic mistake in thinking people are making right now is they’re like, “All right, maybe I was skeptical, but this language model thing is really going to work and, sure, images, video too. But it’s not going to be generating net new knowledge for humanity. It’s just going to do what other people have done. And that’s still great. That still brings the marginal cost of intelligence very low. It’s not going to cure cancer. It’s not going to add to the sum total of human scientific knowledge.” And that is what I think will turn out to be wrong that most surprises the current experts in the field.
 
 我认为认为人们现在正在犯的最大的系统性错误是，他们就像，“好吧，也许我是持怀疑态度的，但这个语言模型真的会奏效，当然，图像和视频也是如此。但它不会为人类产生新的净知识。它只是要做其他人已经做过的事情。这仍然是很棒的。尽管如此，情报的边际成本仍然非常低。它不会治愈癌症的。它不会增加人类科学知识的总量。而这正是我认为将被证明是错误的，最令该领域的专家感到惊讶的是。
 
-RH：  
+**Reid Hoffman：**   
 Yep. So let’s go to science then as the next thing. What are some of the things – whether it’s building on the APIs, or use of APIs by scientists – what are some of the places where science will get accelerated and how?
 
 是啊。接下来让我们来看看科学吧。有哪些事情--无论是建立在API的基础上，还是科学家使用API--科学将在哪些地方得到加速，以及如何得到加速？
 
-SA：  
+**Sam Altman：**  
 So I think there’s two things happening now and then a bigger third one later. One is there are these science dedicated products, like AlphaFold. And those are adding huge amounts of value, and you’re going to be seeing this way more and way more. I think if I had time to do something else, I would be so excited to go after a bio company right now. I think you can just do amazing things there.
 
 所以我认为现在有两件事正在发生，然后是更大的第三件事。一个是有这些致力于科学的产品，比如AlphaFold。这些都在增加巨大的价值，你会越来越多地看到这种方式。我想，如果我有时间做其他事情，我现在就会非常兴奋地去收购一家生物公司。我认为你可以在那里做一些令人惊叹的事情。
@@ -113,12 +113,12 @@ Whatever process we do that is special to humans, teaching AI to do that, I’m 
 
 无论我们做什么过程对人类来说都是特殊的，教人工智能做到这一点，我非常兴奋地看到这会对总数产生什么影响。我坚信，从长远来看，人类进步和经济增长的唯一真正驱动力是社会结构，它使科学进步成为可能，然后是科学进步本身。我认为我们会做出更多这样的事情。
 
-RH：  
+**Reid Hoffman：**   
 Well, especially science that’s deployed in technology. I think probably most people understand what the alignment problem is, but it’s probably worth four sentences on the alignment problem.
 
 嗯，尤其是在技术领域部署的科学。我想大多数人可能理解对齐问题是什么，但关于对齐问题可能值得四句话。
 
-SA：  
+**Sam Altman：**  
 Yeah. So the alignment problem is we’re going to make this incredibly powerful system and be really bad if it doesn’t do what we want, or if it has goals that are either in conflict with ours. \[There are\] many sci-fi movies about what happens there, or goals where it just doesn’t care about us that much.
 
 嗯。因此，调整的问题是，我们将使这个令人难以置信的强大的系统，如果它不能做我们想要的，或者如果它的目标与我们的目标冲突，那么它就会变得非常糟糕。\[有\]许多科幻电影讲述了那里发生的事情，或者它根本不太关心我们的目标。
@@ -131,29 +131,29 @@ The way that I think the self-improving systems help us is not necessarily by th
 
 我认为自我改进系统帮助我们的方式不一定是自我改进的本质，但我们有一些想法来解决小范围内的一致性问题。在这一点上，我们已经能够比我们想象的更好地调整OpenAI最大的模型。所以这很好。我们对下一步做什么有一些想法，但我们不能诚实地看着任何人的眼睛说，我们看到了100年后我们将如何解决这个问题。但是，一旦人工智能足够好，我们可以问它，“嘿，你能帮我们做比对研究吗？”我认为这将是工具箱中的一个新工具。
 
-RH：  
+**Reid Hoffman：**   
 Yeah. For example, one of the conversations you and I had is, could we tell the agent, “Don’t be racist”? As opposed to trying to figure out all the different things where the weird correlative data that exists on all of the models and everything else may lead to racist outcomes, it could actually in fact do a self-cleansing.
 
 嗯。例如，你和我的其中一次谈话是，我们能不能告诉经纪人，“不要做种族主义者”？与其试图找出存在于所有模型和其他一切上的奇怪的相关数据可能导致种族主义结果的所有不同的事情，它实际上可以进行自我净化。
 
-SA：  
+**Sam Altman：**  
 Totally. Once the model gets smart enough that it really understands what racism looks like and how complex that is, you can say, “Don’t be racist.”
 
 完全没问题。一旦这个模型变得足够聪明，它真的理解种族主义是什么样子的，以及它有多复杂，你就可以说，“不要做种族主义者。”
 
-RH：  
+**Reid Hoffman：**   
 Yeah, exactly. What do you think the moonshots are in the terms of evolution of the next couple years that people should be looking out for?
 
 是啊，就是这样。你认为登月在未来几年的演变中，人们应该关注的是什么？
 
-SA：  
+**Sam Altman：**  
 In terms of evolution of where AI will go?  
 在进化方面，人工智能将走向何方？  
 
-RH：  
+**Reid Hoffman：**   
 Yeah. 嗯。
 
-SA：  
+**Sam Altman：**  
 I’ll start with the higher certainty things. I think language models are going to go just much, much further than people think, and we’re very excited to see what happens there. I think it’s what a lot of people say about running out of compute, running out of data. That’s all true. But I think there’s so much algorithmic progress to come that we’re going to have a very exciting time.
 
 我将从更高确定性的事情开始。我认为语言模型将走得比人们想象的要远得多，我们非常期待看到那里会发生什么。我认为这就是很多人所说的计算机耗尽、数据耗尽的说法。这都是真的。但我认为未来会有如此多的算法进步，我们将会有一段非常令人兴奋的时光。
@@ -166,12 +166,12 @@ And if you just think about what that alone is going to unlock and the applicati
 
 如果你想一想，光是这一点就能解锁什么，人们将能够用它来构建应用程序，这对我们所有人来说都是一个巨大的胜利，只是向前迈出的一大步，是一场真正的技术革命--如果这一切都发生了的话。但我认为，我们也可能在新的范式上继续取得研究进展。我们对似乎正在发生的事情感到惊喜。我认为所有这些关于新知识生成的问题(我们如何真正促进人类进步？)我认为会有系统可以帮助我们做到这一点。
 
-RH：  
+**Reid Hoffman：**   
 So one thing I think would be useful to share – because folks don’t realize that you’re actually making these strong predictions from a fairly critical point of view, not just “We can take that hill” – say a little bit about some of the areas that you think are current loosely talked about, for example, AI and fusion.
 
 因此，我认为有一件事是有用的--因为人们没有意识到，你实际上是从一个相当关键的角度做出了这些强有力的预测，而不仅仅是“我们可以拿下那座山”--谈谈你认为目前谈论得很宽松的一些领域，例如，人工智能和融合。
 
-SA：  
+**Sam Altman：**  
 Oh yeah. So one of the unfortunate things that’s happened is AI has become the mega buzzword, which is usually a really bad sign. I hope it doesn’t mean the field is about to fall apart. But historically, that’s a very bad sign for new startup creation or whatever if everybody is like, “I’m this with AI.” And that’s definitely happening now. We were talking about are there all these people saying, “I’m doing these RL models for fusion or whatever,” and as far as we can tell they’re all much worse than what smart physicists have figured out.
 
 哦，是的。所以发生了一件不幸的事，人工智能已经成为一个巨大的流行语，这通常是一个非常糟糕的迹象。我希望这并不意味着这个领域即将分崩离析。但从历史上看，这对新成立的初创公司或其他任何人来说都是一个非常糟糕的迹象，如果每个人都像这样说的话，我对人工智能是这样的。而这一点现在肯定正在发生。我们在讨论，是不是所有这些人都在说，“我在为核聚变做这些RL模型，”据我们所知，他们都比聪明的物理学家计算出的要糟糕得多。
@@ -192,7 +192,7 @@ Oh, I feel bad saying this. I doubt we’ll still be using the transformers in f
 
 哦，我觉得说这话很不舒服。我怀疑我们在五年内是否还会使用这些变形金刚。我希望我们不是。我希望我们能找到更好的办法。但这些变形金刚显然是了不起的。因此，我认为重要的是要一直寻找我将在哪里找到下一个全新的范式。但我认为这是做出预测的方法。不要事事都注意人工智能。我能看到一些东西在起作用吗，我能看到它是如何变得更好的吗？然后，当然，留出空间--你无法计划伟大--但有时研究突破会发生。
 
-RH：  
+**Reid Hoffman：**   
 So I’m going to ask two more questions and then open it up because I want to make sure that people have a chance to do the broader discussion, although I’m trying to paint the broad picture so you can get the crazy ass questions as part of this.
 
 所以我将再问两个问题，然后打开它，因为我想确保人们有机会进行更广泛的讨论，尽管我试图描绘出大致的图景，这样你就可以得到疯狂的问题作为这一部分的一部分。
@@ -201,7 +201,7 @@ What do you think is going to happen vis-a-vis the application of AI to these ve
 
 你认为在将人工智能应用于这些非常重要的系统(例如金融市场)方面会发生什么？因为最自然的事情就是说，“好吧，让我们在这个基础上做一个高频的量化交易系统，”以及其他一些事情。这只是一场中立的军备竞赛吗？你是怎么看待这部《生活3.0，欧米茄》的观点的？
 
-SA：  
+**Sam Altman：**  
 Yeah. I think \[AI\] is going to just seep in everywhere. My basic model of the next decade is that the marginal cost of intelligence and the marginal cost of energy are going to trend rapidly towards zero, surprisingly far. And those, I think, are two of the major inputs into the cost of everything else, except the cost of things we want to be expensive, the status goods, whatever.
 
 嗯。我认为\[人工智能\]将渗透到所有地方。我对未来十年的基本模型是，智力的边际成本和能源的边际成本将迅速趋向于零，令人惊讶的是，这一趋势还很遥远。我认为，这是其他一切成本的两个主要投入，除了我们想要变得昂贵的东西的成本，地位商品，无论是什么。
@@ -215,36 +215,36 @@ But one of the things that is important is it’s not like the thing trends all 
 
 但有一件事很重要，那就是事情不会一直走向零。他们只是朝那里走去。因此，就像有人仍然愿意在计算和能源上花费巨额资金一样。他们只会得到难以想象的数额。那么，谁来做这件事，哪里会得到最奇怪的东西，不是因为成本下降了，而是花费的金额实际上上升了？
 
-RH：  
+**Reid Hoffman：**   
 Yes, the intersection of the two curves.  
 是的，就是这两条曲线的交点。  
 
-SA：  
+**Sam Altman：**  
 Yeah. The thing got 10 or got 100 times cheaper than the cost of energy, 100 million times cheaper than the cost of intelligence, and I was still willing to spend 1,000 times more in today’s dollars. What happens then?
 
 嗯。这东西比能源成本便宜10倍或100倍，比智能成本便宜1亿倍，而我仍然愿意花1000倍于今天的美元。然后会发生什么呢？
 
-RH：  
+**Reid Hoffman：**   
 And then last of the buzzword bingo part of the future questions: metaverse and AI, what do you see coming in this?
 
 然后是未来问题的最后一个热门词宾果部分：Metverse和AI，你认为这会带来什么？
 
-SA：  
+**Sam Altman：**  
 I think they are both independently cool things. It’s not totally clear to me other than how AI will impact all computing.
 
 我觉得它们都是独立的很酷的东西。除了人工智能将如何影响所有计算之外，我还不完全清楚。
 
-RH：  
+**Reid Hoffman：**   
 Yeah. Well, obviously, computing, simulation, environments, agents, possibly entertainment, certainly education, like an AI tutor and so forth, those would be baseline. But the question is there anything that’s occurred to you that’s-
 
 嗯。很明显，计算、模拟、环境、代理，可能是娱乐，当然还有教育，比如人工智能导师等等，这些都是基线。但问题是你有没有想到过什么-
 
-SA：  
+**Sam Altman：**  
 In the upside case, which I think has a reasonable chance of happening, the upside case, the metaverse turns out to be more like something on the order of the iPhone, a new container for software and a new computer interaction thing and AI turns out to be something on the order of a legitimate technological revolution. And so I think it’s more like how the metaverse is going to fit into this new world of AI than AI fit into the metaverse. But low confidence.
 
 在好的方面，我认为有合理的机会发生，好的情况是，虚拟世界被证明更像是iPhone之类的东西，一个新的软件容器和新的计算机交互东西，而人工智能被证明是合法技术革命的东西。因此，我认为，与其说人工智能适合虚拟世界，不如说虚拟现实将如何适应这个新的人工智能世界。但信心不足。
 
-RH：  
+**Reid Hoffman：**   
 But TBD. All right. Questions?  
 但是待定。好的。问题？  
 
@@ -255,7 +255,7 @@ Hey there. How do you see foundational technologies like GPT-3 affecting the pac
 
 嘿你好啊。你认为像GPT-3这样的基础技术如何具体影响生命科学研究的步伐？你可以在那里分组进行医学研究，只需加快迭代周期。然后，你认为什么是生命科学研究中的速率限制器，以及我们无法通过的地方，因为只有自然规律，诸如此类的东西？
 
-SA：  
+**Sam Altman：**  
 I think the currently available models are not good enough to have made a big impact on the field. At least that’s what most life sciences researchers have told me. They’ve all looked at it and they’re like, that’s a little helpful in some cases. There’s been some promising work in genomics, but stuff on a bench top hasn’t really impacted it. I think that’s going to change. And I think this is one of these areas where there will be these new $100 billion to $1 trillion companies started, and those areas are rare.
 
 我认为目前可用的型号还不够好，不足以在这个领域产生很大的影响。至少大多数生命科学研究人员是这么告诉我的。他们都看过了，他们说，这在某些情况下是有一点帮助的。基因组学方面有一些很有前途的工作，但工作台上的东西并没有真正影响到它。我认为这种情况将会改变。我认为这是这些领域之一，将会有价值1000亿至1万亿美元的新公司成立，而这些领域是罕见的。
@@ -272,12 +272,12 @@ I’m a huge believer in startups that the thing you want is low costs and fast 
 
 我非常相信初创企业，你想要的是低成本和快速的周期。如果你拥有这些，你就可以作为一家初创公司与现有的大公司竞争。因此，我不会选择心脏病作为我现在在这家新公司的第一件事。但使用Bio来制造一些东西，听起来很棒。我认为另一件事是模拟器仍然很糟糕。如果我是一家生物与人工智能相遇的初创公司，我肯定会设法做到这一点。
 
-RH：  
+**Reid Hoffman：**   
 When do you think the AI tech will help create itself – almost like the self-improvement \[aspect\] – will help make the simulator significantly better?
 
 你认为人工智能技术何时会帮助创造自己-几乎就像自我改进\[方面\]-将帮助模拟器显著改善？
 
-SA：  
+**Sam Altman：**  
 People are working on that now. I don’t know quite how it’s going, but very smart people are very optimistic about that.
 
 人们现在正在努力做到这一点。我不知道进展如何，但非常聪明的人对此非常乐观。
@@ -286,7 +286,7 @@ People are working on that now. I don’t know quite how it’s going, but very 
 > 
 > 我认为人工智能不会改变所有深层的生物事物。我认为我们仍然会真正关心与其他人的互动。我认为5万年前人们关心的东西更有可能是100年后人们关心的东西，而不是100年前。
 
-RH：  
+**Reid Hoffman：**   
 Other questions. And I can keep going on questions. I just want to make sure you guys had a chance at this. Ah, here. Yes. Great. Mic is coming.
 
 其他问题。我可以继续提问。我只想确认一下你们有没有机会。啊，给你。是。太棒了。麦克风来了。
@@ -298,31 +298,31 @@ Awesome, thank you. I was curious, what aspects of life do you think won’t be 
 
 太棒了，谢谢。我很好奇，你认为人工智能不会改变生活的哪些方面？
 
-SA：  
+**Sam Altman：**  
 All of the deep biological things. I think we will still really care about interaction with other people. We’ll still have fun, and the reward systems of our brain are still going to work the same way. We’re still going to have the same drives to create new things and compete for silly status and form families and whatever. So I think the stuff that people cared about 50,000 years ago is more likely to be the stuff that people care about 100 years from now than 100 years ago.
 
 所有深层生物的东西。我认为我们仍然会真正关心与其他人的互动。我们仍然会玩得很开心，我们大脑的奖励系统仍然会以同样的方式工作。我们仍然会有同样的动力去创造新事物，争夺愚蠢的地位，组建家庭等等。所以我认为，5万年前人们关心的东西，比100年前更有可能是100年后人们关心的东西。
 
-RH：  
+**Reid Hoffman：**   
 As an amplifier on that before we get to whatever the next question is, what do you think are the best utopian science fiction universes so far?
 
 在我们进入下一个问题之前，作为对这一点的放大，你认为到目前为止最好的乌托邦科幻宇宙是什么？
 
-SA：  
+**Sam Altman：**  
 Good question. Star Trek is pretty good, honestly. I do like all of the ones that are where we turn our focus to exploring and understanding the universe as much as we can. That’s not a utopian one. Well, maybe I think the last question is an incredible short story. That came to mind.
 
 问得好。老实说，《星际迷航》相当不错。我确实喜欢所有那些我们将注意力转向尽可能多地探索和理解宇宙的故事。这不是一个乌托邦的问题。好吧，也许我认为最后一个问题是一个令人难以置信的短篇小说。我想到了这一点。
 
-RH：  
+**Reid Hoffman：**   
 Yep, yep. I was expecting you to say Iain Banks on the Culture.  
 是的，是的。我还以为你会说伊恩·班克斯的文化。  
 
-SA：  
+**Sam Altman：**  
 Those are great. There’s not one sci-fi universe that I could point to and say I think all of this is great. But the collective optimistic corner of sci-fi, which is a smallish corner, I’m excited about. Actually, I took a few days off to write a sci-fi story, and I had so much fun doing it, just about the optimistic case of AGI, that it made me want to go read a bunch more. So I’m looking for recommendations of more to read now, the less known stuff if you have anything.
 
 真是太棒了。没有一个科幻世界我可以指着说，我认为这一切都很棒。但是科幻的集体乐观的角落，这是一个很小的角落，我很兴奋。事实上，我休了几天假写了一个科幻故事，我做得很开心，就像是关于AGI的乐观案例，这让我想多读一些。所以我现在正在寻找更多值得阅读的推荐，如果你有什么不知名的东西的话。
 
-RH：  
+**Reid Hoffman：**   
 I will get you some great thumb recommendations.  
 我会给你一些很棒的拇指推荐。  
 
@@ -333,7 +333,7 @@ So in a similar vein, one of my favorite sci-fi books is called Childhood’s En
 
 同样，我最喜欢的科幻小说之一是阿瑟·克拉克写的60年代的《童年的终结》。我想一句话概括就是外星人来到地球试图拯救我们，他们带走了我们的孩子，留下了其他一切。所以-
 
-RH：  
+**Reid Hoffman：**   
 They’re slightly more optimistic than that. But yes. Ascension into the over mind is meant to be more utopian, but yes. You may not read it that way, but yes.
 
 他们比这稍微乐观一些。不过，是的。提升到过度的头脑中意味着更多的乌托邦，但是的。你可能不会这样解读，但是的。
@@ -345,7 +345,7 @@ Well, so in our current universe, our current situation, a lot of people think a
 
 嗯，所以在我们现在的世界，我们现在的情况下，很多人都在考虑家庭建设和生育。不同的人有不同的方法来处理这一问题。但从你的立场来看，你认为最有希望的解决方案是什么？这可能不是一种技术解决方案，但我很好奇你的想法。除了每个人都有10个孩子，我们怎么-
 
-SA：  
+**Sam Altman：**  
 Of everyone having 10 kids?  
 每个人都有10个孩子？  
 
@@ -356,7 +356,7 @@ Yeah. How do you populate? How do you see family building coexisting with AGI an
 
 嗯。你是如何发展壮大的？你如何看待家庭建筑与AGI和高科技共存？
 
-SA：  
+**Sam Altman：**  
 This is a question that comes up at OpenAI a lot. How should one think about having kids? There’s, I think, no consensus answer to this. There are people who say, “Yeah, I always thought I was going to have kids, and I’m not going to because of AGI,” just for all the obvious reasons and, I think, some less obvious ones. There’s people who say, “Well, it’s going to be the only thing for me to do in 15, 20 years, so of course I’m going to have a big family. That’s what I’m going to spend my time doing. I’ll just raise great kids. And then I think that’s what will bring me fulfillment.”
 
 这是OpenAI经常出现的一个问题。人们应该如何看待生孩子的问题？我认为，对于这一问题，没有达成一致的答案。有些人说，“是的，我一直以为我会有孩子，但因为AGI，我不会这样做。”原因很明显，我想，也有一些不太明显的原因。有些人说，“嗯，这将是我在15到20年内唯一要做的事情，所以我当然会有一个大家庭。这就是我要花时间做的事情。我只会养育优秀的孩子。然后我想这会给我带来满足感。
@@ -376,7 +376,7 @@ What do you think will be the way that most users interact with foundation model
 
 你认为五年后大多数用户与基础模特的互动方式会是什么？你认为会有许多垂直的人工智能初创公司基本上将基础模式微调到行业中吗？或者，您认为快速工程将成为许多组织的内部职能吗？
 
-SA：  
+**Sam Altman：**  
 I don’t think we’ll still be doing prompt engineering in five years. And this’ll be integrated everywhere. Either with text or voice, depending on the context, you will just interface in language and get the computer to do whatever you want. And that will apply to generate an image where maybe we still do a little bit of prompt engineering, but it’s just going to get it to go off and do this research for me and do this complicated thing or just be my therapist and help me figure out to make my life better or go use my computer for me and do this thing or any number of other things. But I think the fundamental interface will be natural language.
 
 我不认为五年后我们还会继续从事快速工程。这将被整合到任何地方。无论是文本还是语音，根据上下文，你只需用语言进行交互，然后让计算机做你想做的任何事情。这将适用于生成一个图像，也许我们仍然在做一些即时工程，但它只是要让它离开，为我做这个研究，做这件复杂的事情，或者只是做我的治疗师，帮助我想办法让我的生活更好，或者去为我使用我的电脑，做这件事或其他任何事情。但我认为最基本的界面将是自然语言。
@@ -385,17 +385,17 @@ I don’t think we’ll still be doing prompt engineering in five years. And thi
 > 
 > “永远重要的是创意的质量和对你想要什么的理解。”
 
-RH：  
+**Reid Hoffman：**   
 Let me actually push on that a little bit before we get to the next question. To some degree, just like we have a wide range of human talents right now and taking a look, for example, at DALL-E, when you have a great visual thinker, they can get a lot more out of DALL-E because they know how to think more. They know how to iterate the loop through the test. Don’t you think that will be a general truth about most of these things? While it’ll be natural language as the way you’re doing it, there will be almost an evolving set of human talents about going that extra mile.
 
 在我们进入下一个问题之前，让我稍微深入一下。在某种程度上，就像我们现在拥有广泛的人类天赋一样，例如，看看Dall-E，当你有一个伟大的视觉思想家时，他们可以从Dall-E中获得更多，因为他们知道如何思考更多。他们知道如何在测试中迭代循环。你不认为这将是大多数这些事情的普遍真理吗？虽然这将是自然的语言，因为你正在做的方式，将会有几乎一套不断演变的人类天赋，以走出更多的英里。
 
-SA：  
+**Sam Altman：**  
 100%. I just hope it’s not figuring out how to hack the prompt by adding one magic word to the end that changes everything else. What will matter is the quality of ideas and the understanding of what you want. So the artist will still do the best with image generation but not because they figured out to add this one magic word at the end of it. Because they were just able to articulate it with a creative eye that I don’t have.
 
 100%我只是希望它不会通过在结尾添加一个改变其他一切的魔术单词来破解提示符。重要的是想法的质量和对你想要的东西的理解。因此，艺术家仍然会在图像生成方面做得最好，但这并不是因为他们想在最后添加这个神奇的词。因为他们能够用我没有的创造性眼光把它表达出来。
 
-RH：  
+**Reid Hoffman：**   
 And what they have is a vision and how they’re visual thinking and iterating through it. And obviously, it’ll be that word or prompt now, but it’ll iterate to better. All right. At least we have a question here.
 
 他们所拥有的是一个愿景，以及他们是如何进行视觉思维和迭代的。很明显，它现在会是那个词或提示，但它会迭代到更好的。好的。至少我们在这里有一个问题。
@@ -407,7 +407,7 @@ Hey. Thanks so much. I think the term AGI is thrown around a lot. And sometimes 
 
 嘿。非常感谢。我认为AGI这个词经常被抛来抛去。有时，我在自己的讨论中注意到，混淆的根源只是因为人们对AGI有不同的定义。因此，它可以是一个魔术箱，每个人都可以在上面投射他们的想法。我只是想对自己有一个感觉，你会如何定义AGI，你认为你会如何知道我们什么时候会实现它？
 
-SA：  
+**Sam Altman：**  
 Yeah. I should’ve defined that earlier. It’s a great point. I think there’s a lot of valid definitions to this, but for me, AGI is basically the equivalent of a median human that you could hire as a coworker. And then they could do anything that you’d be happy with a remote coworker doing just behind a computer, which includes learning how to go be a doctor, learning how to go be a very competent coder.
 
 嗯。我应该早点给你下定义。这是一个很好的观点。我认为对此有很多有效的定义，但对我来说，AGI基本上相当于一个中等水平的人，你可以雇佣它作为同事。然后他们可以做任何你喜欢远程同事在电脑后做的事情，包括学习如何成为一名医生，学习如何成为一名非常称职的程序员。
@@ -416,7 +416,7 @@ There’s a lot of stuff that a median human is capable of getting good at. And 
 
 有很多事情是一个普通人能够做得很好的。我认为AGI的技能之一不是什么特别的里程碑，而是学习弄清楚事情的元技能，它可以决定做你需要的任何事情。所以对我来说，这就是AGI。然后，超级智能是当它比全人类加起来还聪明的时候。
 
-RH：  
+**Reid Hoffman：**   
 Did you have a question? Yep. Great.  
 你有什么问题吗？是啊。太棒了。  
 
@@ -427,7 +427,7 @@ Thanks. Just what would you say in the next 20, 30 years are some of the main so
 
 谢谢。你会说，随着人工智能的持续发展，未来二三十年会出现一些主要的社会问题吗？我们今天能做些什么来缓解这些问题？
 
-SA：  
+**Sam Altman：**  
 Obviously, the economic impacts are huge. And I think if it is as divergent as I think it could be for some people doing incredibly well and others not, I think society just won’t tolerate it at this time. And so figuring out when we’re going to disrupt so much of economic activity, and even if it’s not all disrupted by 20 or 30 years from now, I think it’ll be clear that it’s all going to be.
 
 显然，这对经济的影响是巨大的。我认为，如果像我认为的那样，一些人做得非常好，而另一些人做得不好，我认为社会在这个时候是不会容忍的。因此，弄清楚我们什么时候会扰乱如此多的经济活动，即使这些活动不会在20或30年后全部扰乱，我认为很明显，一切都会被扰乱。
@@ -441,17 +441,17 @@ I’m optimistic that people will figure out how to spend their time and be very
 
 我乐观地认为，人们会想出如何度过他们的时间，并感到非常充实。我认为人们以一种有点愚蠢的方式担心这一点。我相信人们做的事情会有很大不同，但我们总是能解决这个问题。但我确实认为，财富、准入和治理的概念，这些都将发生变化，我们如何解决这些问题将是巨大的。
 
-RH：  
+**Reid Hoffman：**   
 Actually, one thing. I don’t know what level of devs you can share that with, but one of the things I love about what OpenAI and you guys are doing is they think about these questions a lot themselves, and they initiate some research. So you’ve initiated some research on this stuff.
 
 实际上，有一件事。我不知道你可以与哪个级别的开发人员分享这一点，但我喜欢OpenAI和你们正在做的事情之一是，他们自己思考了很多这些问题，并发起了一些研究。所以你已经开始了一些关于这方面的研究。
 
-SA：  
+**Sam Altman：**  
 Yeah. So we run the largest UBI experiment in the world. We have a year and a quarter left in a five-year project. I don’t think that’s the only solution, but I think it’s a great thing to be doing. And I think we should have 10 more things like that that we try. We also try different ways to get input from a lot of the groups that we think will be most affected and see how we can do that early in the cycle. We’ve explored more recently how this technology can be used for reskilling people that are going to be impacted early. We’ll try to do a lot more stuff like that too.
 
 嗯。因此，我们进行了世界上最大的UBI实验。我们在一个五年计划中还剩下一年零四分之一的时间。我不认为这是唯一的解决方案，但我认为这是一件很棒的事情。我认为我们应该再尝试10件类似的事情。我们还尝试了不同的方式，从我们认为将受到最大影响的许多群体那里获得意见，并看看如何在周期的早期做到这一点。我们最近探索了如何使用这项技术来重新杀死那些将在早期受到影响的人。我们也会尝试做更多这样的事情。
 
-RH：  
+**Reid Hoffman：**   
 Yeah. So the organization is actually, in fact, these are great questions, addressing them and actually doing a bunch of interesting research on it. So the next question.
 
 嗯。因此，该组织实际上是，事实上，这些都是伟大的问题，解决这些问题，并实际上做了一系列有趣的研究。那么下一个问题。
@@ -463,7 +463,7 @@ Hi. So creativity came up today in several of the panels, and it seems to me tha
 
 嗨。所以创造力今天出现在了几个小组中，在我看来，它被使用的方式，你有了人类创造者的工具，去扩大人类的创造力。那么，你认为这些工具之间的界限是什么？让创作者更有生产力，以及让人工创造力自己做所有事情？
 
-SA：  
+**Sam Altman：**  
 Yeah. And I think we’re seeing this now that as tools for creatives, that is going to be the great application of AI in the short term. People love it. It’s really helpful. And I think it is, at least in what we’re seeing so far, not replacing. It is mostly enhancing. It’s replacing in some cases, but for the majority of the kind of work that people in these fields want to be doing, it’s enhancing. And I think we’ll see that trend continue for a long time. Eventually, yeah, it probably is just like we look out 100 years, it can do the whole creative job.
 
 嗯。我认为我们现在看到了这一点，作为创意的工具，这将是人工智能在短期内的伟大应用。人们喜欢它。这真的很有帮助。我认为，至少在我们目前看到的情况下，它是不会被取代的。它在很大程度上正在增强。在某些情况下，它正在取代，但对于这些领域的人想要做的大部分工作来说，它正在增强。我认为我们将看到这一趋势将持续很长一段时间。最终，是的，它可能就像我们展望100年一样，它可以完成整个创造性的工作。
@@ -476,7 +476,7 @@ There’s an interesting reminder in here generally about how hard predictions a
 
 这里有一个有趣的提醒，大体上是关于预测有多难，但更具体的是，我们并不总是非常意识到，甚至可能是我们自己，意识到什么技能是难的和容易的，什么是使用我们大脑最多的，什么不是，或者身体控制或制造的难度有多大，等等。
 
-RH：  
+**Reid Hoffman：**   
 We have one more question over here.  
 我们这里还有一个问题。  
 
@@ -487,7 +487,7 @@ Hey. Thanks for being here. So you mentioned that you could be skeptical of any 
 
 嘿。感谢您的光临。你提到，你可能会对任何试图训练自己的语言模型的初创公司持怀疑态度。所以我听到的可能是错误的是，大型语言模型依赖于数据和计算。任何初创公司都可以访问相同数量的数据，因为它们只是互联网数据。不同的公司可能拥有不同的计算量，但我想，由于他们是大玩家，他们将获得相同的计算量。那么，一家大型语言模型初创公司如何与另一家公司区分开来呢？
 
-SA：  
+**Sam Altman：**  
 I think it’ll be this middle layer. I think in some sense, the startups will train their own models, just not from the beginning. They will take base models that are hugely trained with a gigantic amount of compute and data, and then they will train on top of those to create the model for each vertical. So in some sense, they are training their own models, just not from scratch. But they’re doing the 1% of training that really matters for whatever this use case is going to be.
 
 我想应该是中间这一层。我认为，在某种意义上，初创公司会训练自己的模式，只是不是从一开始。他们将采用经过大量计算和数据训练的基础模型，然后他们将在这些模型的基础上进行培训，为每个垂直方向创建模型。因此，在某种意义上，他们是在训练自己的模型，只是不是从零开始。但他们正在进行1%的培训，无论这个用例是什么，这都是非常重要的。
@@ -497,12 +497,12 @@ Those startups, I think, will be hugely successful and very differentiated start
 
 我认为，这些初创企业在那里将非常成功，非常差异化。但这将是关于初创公司能够做的数据飞轮，上面和下面的所有部件。这可能包括一段时间的快速工程或其他什么，核心基础模型。我认为这将变得太复杂和太昂贵，而世界也就是没有制造足够的芯片。
 
-RH：  
+**Reid Hoffman：**   
 So Sam has a work thing he needs to get to. And as you probably can tell with the very far ranging thing, Sam always expands boundaries. And a little bit unlike when you’re feeling depressed, whether it’s \[the future for\] kids or anything else, you’re the person I always turn to for help.
 
 所以山姆有工作上的事要去处理。就像你可能从很远的距离上看到的那样，山姆总是扩展边界。与你感到沮丧时不同，无论是孩子的未来还是其他任何事情，你都是我总是求助的人。
 
-SA：  
+**Sam Altman：**  
 I appreciate that.  
 我很感激你这么说。  
 
@@ -510,10 +510,10 @@ I think no one knows we’re sitting on this precipice of AI. And people are lik
 
 我认为没有人知道我们正坐在人工智能的悬崖上。人们会说，“它要么会很棒，要么会很糟糕。”你得做最坏的打算。这不是一种说一切都会好起来的策略，但你也可以在情感上感觉到我们将到达伟大的未来，尽你所能努力实现并为之而战，而不是一直在这个恐惧和绝望的地方采取行动。
 
-RH：  
+**Reid Hoffman：**   
 Yeah, because if we acted from a place of fear and paranoia, we would not be where we are today. So let’s thank Sam for spending dinner with us.
 
 是的，因为如果我们从恐惧和偏执的地方采取行动，我们就不会有今天的成就。所以让我们感谢萨姆和我们共进晚餐。
 
-SA：  
+**Sam Altman：**  
 Thank you. 谢谢。
