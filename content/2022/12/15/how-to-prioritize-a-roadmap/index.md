@@ -20,7 +20,7 @@ The first is to create a spreadsheet to list all your ideas, and score each one 
 
 第一个是创建一个电子表格来列出你所有的想法，并根据构建成本和影响力对每个想法进行评分。 然后，对它们进行排序，以便以最少的努力产生最大影响的想法出现在顶部，如下所示：
 
-[![](optimized_2ZxQzcOkhA3MpC1KtUGk5DH4vBOUnZK-kfYcysua3ThsOYCih9uG96sAO6yxSDcL7SdGJgkHn0qvqUjpLfWn56-Qza9AZfkLxRKnMl2CH-JVTwLxGtExj6Xa8PLOEL5Lv8HT5L7MQsEgR9T14r2lgIvcIlTmEDcGO3j0gNm3_G3EbkKnSBmVF9LcbZZUhQ.png)](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2412/optimized_2ZxQzcOkhA3MpC1KtUGk5DH4vBOUnZK-kfYcysua3ThsOYCih9uG96sAO6yxSDcL7SdGJgkHn0qvqUjpLfWn56-Qza9AZfkLxRKnMl2CH-JVTwLxGtExj6Xa8PLOEL5Lv8HT5L7MQsEgR9T14r2lgIvcIlTmEDcGO3j0gNm3_G3EbkKnSBmVF9LcbZZUhQ.png?link=true)
+![](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2412/optimized_2ZxQzcOkhA3MpC1KtUGk5DH4vBOUnZK-kfYcysua3ThsOYCih9uG96sAO6yxSDcL7SdGJgkHn0qvqUjpLfWn56-Qza9AZfkLxRKnMl2CH-JVTwLxGtExj6Xa8PLOEL5Lv8HT5L7MQsEgR9T14r2lgIvcIlTmEDcGO3j0gNm3_G3EbkKnSBmVF9LcbZZUhQ.png?link=true)
 
 There are a million variants of this framework, but none of them helps you with what is hard about prioritization: coming up with good ideas and accurately predicting what would happen if you decided to pursue them. When you’re filling out numbers in a spreadsheet, it can feel like a shot in the dark.
 
