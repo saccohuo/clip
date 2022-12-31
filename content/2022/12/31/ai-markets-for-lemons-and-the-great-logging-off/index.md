@@ -16,7 +16,7 @@ _Full Disclosure: Hydrazine Capital, an investment fund lead by Sam Altman (CEO 
 
 全面披露：由 Sam Altman（OpenAI 首席执行官）领导的投资基金 Hydrazine Capital 是我雇主 Geo Land Solutions 的主要投资者，该公司专门从事房地产估值，以帮助市政财产税评估员进行更准确、公平和公平的估值.
 
-___
+___ 
 
 I think it's fair to say that people, including myself, have consistently underestimated the pace and capabilities of AI technology. It's entirely possible that we'll start to run up against some sorts of physical or theoretical limits soon, but even if that hits us tomorrow, the amount of raw power that's been unlocked in the last year alone – the tech that's already _here_ – already has the potential to change things in massive waves.
 

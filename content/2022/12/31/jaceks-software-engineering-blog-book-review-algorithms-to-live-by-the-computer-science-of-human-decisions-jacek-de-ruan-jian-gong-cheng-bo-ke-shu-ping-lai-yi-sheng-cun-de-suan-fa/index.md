@@ -13,7 +13,7 @@ extra:
 ---
 
 December 28, 2022 Tags: [book](https://blog.galowicz.de/tags/book.html "All pages tagged 'book'.")  
-2022 年 12 月 28 日标签：书  
+2022 年 12 月 28 日标签：书   
 
 What does the math tell us about how many job applicants we should look at before hiring one? While onboarding our new employees, how can ideas from the [TCP networking protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) help us to identify the optimal workload for them? Why would giving employees unlimited vacation days most likely lead to less vacation being taken? [Algorithms to live By - The Computer Science of Human Decisions](https://amzn.to/3HAmDaM) gives some fascinating insights into such questions.
 
