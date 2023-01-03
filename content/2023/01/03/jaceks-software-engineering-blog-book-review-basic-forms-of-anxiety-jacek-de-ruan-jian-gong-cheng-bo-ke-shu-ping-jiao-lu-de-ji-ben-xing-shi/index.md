@@ -1,5 +1,5 @@
 ---
-title: "Jacek 的软件工程博客 · 书评：焦虑的基本形式"
+title: "书评：焦虑的基本形式"
 date: 2023-01-03T13:09:50+08:00
 updated: 2023-01-03T13:09:50+08:00
 taxonomies:
@@ -8,7 +8,7 @@ extra:
   source: https://blog.galowicz.de/2023/01/02/book-review-basic-forms-of-anxiety/
   hostname: blog.galowicz.de
   author: Book & Authors书籍与作者
-  original_title: "Jacek's Software Engineering Blog · Book Review: Basic Forms of Anxiety --- Jacek 的软件工程博客 · 书评：焦虑的基本形式"
+  original_title: "Jacek's Software Engineering Blog · Book Review: Basic Forms of Anxiety "
   original_lang: en
 ---
 
