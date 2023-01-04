@@ -30,7 +30,7 @@ I'm a strange creature in that I'm equal parts techno-optimist and neo-luddite d
 
 我是一个奇怪的生物，因为我既是技术乐观主义者又是新勒德分子，这取决于星期几。我认为人工智能有潜力极大地丰富和赋予人类力量，但它也有一些令人深感不安的影响。今天的帖子描绘了那些令人不安的可能未来之一。
 
-Summary:
+Summary: 
 
 **A Market for Lemons**  
 In which the internet gets clogged with piles of semi-intelligent spam, breaking the default assumption that the "person" you're talking to is _human._
