@@ -27,3 +27,4 @@
 4. 更新频次不定，可根据左侧目录查看对应日期文章；
 5. 联系邮箱：i#demochen.com (将`#`换成`@`)。
 
+> RSS 订阅：[https://clip.demochen.com/feed.xml](https://clip.demochen.com/feed.xml)
