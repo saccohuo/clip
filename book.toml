@@ -7,12 +7,12 @@ language = "zh"
 authors = ["DemoChen"]
 
 [output.html]
-# default-theme = "rust"
-# git-repository-url = "https://github.com/theowenyoung/clip-template"
+default-theme = "rust"
+git-repository-url = "https://github.com/theowenyoung/clip-template"
 # edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 
 [output.html.search]
-enable = false
+enable = true
 
 [output.html.print]
 enable = false    # include support for printable output

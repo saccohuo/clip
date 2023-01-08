@@ -786,7 +786,7 @@ ${body}
         feedParams.favicon = `${originalBookConfig.base_url}/favicon.png`;
       }
       const feed = new Feed(feedParams);
-      allChapters.slice(0, 25).forEach((post) => {
+      allChapters.slice(0, 10).forEach((post) => {
         feed.addItem({
           title: post.title,
           id: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
