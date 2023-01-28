@@ -18,16 +18,6 @@ import { Base64 } from "https://deno.land/x/bb64@1.1.0/mod.ts";
 import { config } from "https://deno.land/std@0.166.0/dotenv/mod.ts";
 import transliteration from "https://jspm.dev/transliteration@2.3.5";
 import { default as kebabCase } from "https://jspm.dev/lodash@4.17.21/kebabCase";
-import { gfm } from "https://esm.sh/micromark-extension-gfm@2.0.1";
-import {
-  gfmFromMarkdown,
-  gfmToMarkdown,
-} from "https://esm.sh/mdast-util-gfm@2.0.1";
-// import { default as kebabCase } from "https://jspm.dev/lodash@4.17.21/kebabCase";
-import { toMarkdown } from "https://esm.sh/mdast-util-to-markdown@1.3.0";
-import { fromMarkdown } from "https://esm.sh/mdast-util-from-markdown@1.2.0";
-import { visit } from "https://esm.sh/unist-util-visit@4.1.1";
-import showdown from "https://esm.sh/showdown@2.1.0";
 // @ts-ignore: npm module
 const _slug = transliteration.slugify;
 export const SECOND = 1e3;
@@ -135,9 +125,6 @@ async function main() {
     ],
     string: ["day", "week"],
   });
-  await config({
-    export: true,
-  });
   const isBuildArchive = flags.archive;
   const now = new Date();
   let serveDistDir = "";
@@ -184,6 +171,10 @@ async function main() {
     console.log(keys.join(","));
     return;
   }
+
+  await config({
+    export: true,
+  });
   // console.log("dayBooks", dayBooks);
 
   const workDir = new URL(".", import.meta.url).pathname;
@@ -201,8 +192,8 @@ async function main() {
     baseUrl = "http://localhost:8000";
   }
   let mailConfig = {};
-  if (originalBookConfig.output && originalBookConfig.output.mail) {
-    mailConfig = originalBookConfig.output.mail;
+  if (originalBookConfig && originalBookConfig.mail) {
+    mailConfig = originalBookConfig.mail;
   }
   const binDir = new URL("./bin", import.meta.url).pathname;
 
@@ -324,8 +315,16 @@ async function main() {
         // read file
         const file = await Deno.readTextFile(entry.path);
         // extract front matter
-        const parsed = extract(file);
+        let parsed = {};
+        try {
+          parsed = extract(file);
+        } catch (e) {
+          console.error(`error parsing ${filepath}`);
+          throw e;
+        }
+        // @ts-ignore: it's ok
         const { body } = parsed;
+        // @ts-ignore: it's ok
         const attrs = parsed.attrs as FrontMatter;
         if (attrs.draft) {
           continue;
@@ -552,16 +551,14 @@ async function main() {
 
     let summary = `# Summary\n\n`;
     if (book.introduction) {
-      summary += `[${book.introduction.title}](${formatMarkdownPath(book.introduction.path)
-        })\n\n`;
+      summary += `[${book.introduction.title}](${book.introduction.path})\n\n`;
     }
     for (const section of book.summary) {
       summary += `- [${section.title}](${formatMarkdownPath(section.path)})\n`;
 
       if (section.subSections) {
         for (const subSection of section.subSections) {
-          summary += `  - [${subSection.title}](${formatMarkdownPath(subSection.path)
-            })\n`;
+          summary += `  - [${subSection.title}](${subSection.path})\n`;
         }
       }
     }
@@ -755,52 +752,6 @@ ${body}
         );
       }
     }
-
-    // generate rss items;
-    if (key === "archive") {
-      const feedItems = [];
-      const feedParams: FeedOptions = {
-        title: originalBookConfig.book.title as string,
-        description: originalBookConfig.book.description as string,
-        id: originalBookConfig.base_url,
-        link: originalBookConfig.base_url,
-        language: originalBookConfig.book.language as string, // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
-        generator: "clip", // optional, default = 'Feed for Node.js'
-        copyright: "",
-      };
-      const authors = originalBookConfig.book.authors as string[];
-      if (
-        authors &&
-        authors.length > 0
-      ) {
-        feedParams.author = {
-          name: authors[0],
-          link: originalBookConfig.base_url,
-        };
-      }
-
-      // check favicon exists
-
-      const faviconPath = path.join(htmlPath, "favicon.png");
-      if (fs.existsSync(faviconPath)) {
-        feedParams.favicon = `${originalBookConfig.base_url}/favicon.png`;
-      }
-      const feed = new Feed(feedParams);
-      allChapters.slice(0, 10).forEach((post) => {
-        feed.addItem({
-          title: post.title,
-          id: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
-          link: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
-          content: renderMarkdown(post.relativePath, post.content, baseUrl),
-          date: post.date,
-        });
-      });
-      const feedText = feed.atom1();
-      // write to feed.xml
-      const feedPath = path.join(htmlPath, "feed.xml");
-      await Deno.writeTextFile(feedPath, feedText);
-    }
-
     // copy all html files to distDir
     await fs.copy(htmlPath, distDir, { overwrite: true });
     console.log("build book success");
@@ -945,11 +896,9 @@ export function startDateOfWeek(date: Date, start_day = 1): Date {
   date = new Date(date.getTime());
   const day_of_month = date.getUTCDate();
   const day_of_week = date.getUTCDay();
-  const difference_in_days = (
-    day_of_week >= start_day
-      ? day_of_week - start_day
-      : day_of_week - start_day + 7
-  );
+  const difference_in_days = day_of_week >= start_day
+    ? day_of_week - start_day
+    : day_of_week - start_day + 7;
   date.setUTCDate(day_of_month - difference_in_days);
   date.setUTCHours(0);
   date.setUTCMinutes(0);
