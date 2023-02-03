@@ -411,7 +411,8 @@ async function main() {
       if (chapter.frontMatter) {
         const extra = chapter.frontMatter.extra;
         if (extra && extra.source) {
-          markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
+          markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>`;
+          // # update source 0203
         }
       }
       targetMarkdownFiles[chapter.relativePath] = markdownContent;
