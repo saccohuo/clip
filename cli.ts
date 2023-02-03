@@ -18,6 +18,16 @@ import { Base64 } from "https://deno.land/x/bb64@1.1.0/mod.ts";
 import { config } from "https://deno.land/std@0.166.0/dotenv/mod.ts";
 import transliteration from "https://jspm.dev/transliteration@2.3.5";
 import { default as kebabCase } from "https://jspm.dev/lodash@4.17.21/kebabCase";
+import { gfm } from "https://esm.sh/micromark-extension-gfm@2.0.1";
+import {
+  gfmFromMarkdown,
+  gfmToMarkdown,
+} from "https://esm.sh/mdast-util-gfm@2.0.1";
+// import { default as kebabCase } from "https://jspm.dev/lodash@4.17.21/kebabCase";
+import { toMarkdown } from "https://esm.sh/mdast-util-to-markdown@1.5.0";
+import { fromMarkdown } from "https://esm.sh/mdast-util-from-markdown@1.3.0";
+import { visit } from "https://esm.sh/unist-util-visit@4.1.2";
+import showdown from "https://esm.sh/showdown@2.1.0";
 // @ts-ignore: npm module
 const _slug = transliteration.slugify;
 export const SECOND = 1e3;
@@ -401,8 +411,7 @@ async function main() {
       if (chapter.frontMatter) {
         const extra = chapter.frontMatter.extra;
         if (extra && extra.source) {
-          markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>`;
-          // # update source 1203
+          markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
         }
       }
       targetMarkdownFiles[chapter.relativePath] = markdownContent;
@@ -551,14 +560,16 @@ async function main() {
 
     let summary = `# Summary\n\n`;
     if (book.introduction) {
-      summary += `[${book.introduction.title}](${book.introduction.path})\n\n`;
+      summary += `[${book.introduction.title}](${formatMarkdownPath(book.introduction.path)
+        })\n\n`;
     }
     for (const section of book.summary) {
       summary += `- [${section.title}](${formatMarkdownPath(section.path)})\n`;
 
       if (section.subSections) {
         for (const subSection of section.subSections) {
-          summary += `  - [${subSection.title}](${subSection.path})\n`;
+          summary += `  - [${subSection.title}](${formatMarkdownPath(subSection.path)
+            })\n`;
         }
       }
     }
@@ -752,6 +763,52 @@ ${body}
         );
       }
     }
+
+    // generate rss items;
+    if (key === "archive") {
+      const feedItems = [];
+      const feedParams: FeedOptions = {
+        title: originalBookConfig.book.title as string,
+        description: originalBookConfig.book.description as string,
+        id: originalBookConfig.base_url,
+        link: originalBookConfig.base_url,
+        language: originalBookConfig.book.language as string, // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+        generator: "clip", // optional, default = 'Feed for Node.js'
+        copyright: "",
+      };
+      const authors = originalBookConfig.book.authors as string[];
+      if (
+        authors &&
+        authors.length > 0
+      ) {
+        feedParams.author = {
+          name: authors[0],
+          link: originalBookConfig.base_url,
+        };
+      }
+
+      // check favicon exists
+
+      const faviconPath = path.join(htmlPath, "favicon.png");
+      if (fs.existsSync(faviconPath)) {
+        feedParams.favicon = `${originalBookConfig.base_url}/favicon.png`;
+      }
+      const feed = new Feed(feedParams);
+      allChapters.slice(0, 25).forEach((post) => {
+        feed.addItem({
+          title: post.title,
+          id: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
+          link: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
+          content: renderMarkdown(post.relativePath, post.content, baseUrl),
+          date: post.date,
+        });
+      });
+      const feedText = feed.atom1();
+      // write to feed.xml
+      const feedPath = path.join(htmlPath, "feed.xml");
+      await Deno.writeTextFile(feedPath, feedText);
+    }
+
     // copy all html files to distDir
     await fs.copy(htmlPath, distDir, { overwrite: true });
     console.log("build book success");

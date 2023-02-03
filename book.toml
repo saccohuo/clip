@@ -8,7 +8,7 @@ authors = ["DemoChen"]
 
 [output.html]
 default-theme = "rust"
-git-repository-url = "https://github.com/theowenyoung/clip-template"
+git-repository-url = "https://github.com/helloChenLei/clip"
 # edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 
 [output.html.search]
