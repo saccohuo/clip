@@ -8,7 +8,7 @@ extra:
   source: https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/
   hostname: ludic.mataroa.blog
   author: Published on February 27, 2023发表于 2023 年 2 月 27 日
-  original_title: "Most Data Work Seems Fundamentally Worthless — Ludicity --- 大多数数据工作似乎根本没有价值——Ludicity"
+  original_title: "Most Data Work Seems Fundamentally Worthless — Ludicity"
   original_lang: en
 ---
 

@@ -8,7 +8,7 @@ extra:
   source: https://ianbicking.org/blog/2019/03/open-source-doesnt-make-money-by-design.html
   hostname: ianbicking.org
   author: 
-  original_title: "Open Source Doesn’t Make Money Because It Isn’t Designed To Make Money --- 开源不赚钱，因为它不是为了赚钱而设计的"
+  original_title: "Open Source Doesn’t Make Money Because It Isn’t Designed To Make Money"
   original_lang: en
 ---
 
@@ -16,8 +16,7 @@ Monday, March 18th, 2019
 
 2019 年 3 月 18 日，星期一
 
-> Or: _The Best Way To Do Something Is To At Least Try_  
-> 
+> Or: _The Best Way To Do Something Is To At Least Try_
 > 或者：做某事的最好方法是至少尝试
 
 We all know the story: you can’t make money on open source. Is it really true?  

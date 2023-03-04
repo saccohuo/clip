@@ -8,7 +8,7 @@ extra:
   source: https://ianbicking.org/blog/2023/02/world-building-with-gpt.html
   hostname: ianbicking.org
   author: 
-  original_title: "World Building With GPT --- 使用 GPT 构建世界"
+  original_title: "World Building With GPT"
   original_lang: en
 ---
 
