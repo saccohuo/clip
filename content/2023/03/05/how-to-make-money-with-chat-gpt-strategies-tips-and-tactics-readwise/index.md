@@ -206,7 +206,6 @@ Use ChatGPT to create writing prompts for Midjourney and sell them on platforms 
 
 #### Shutterstock
 
-,
 
 Adobe Stock, Getty, iStock, Alamy and 500px  
 
