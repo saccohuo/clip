@@ -18,9 +18,9 @@ What is the meaning of life? What are good and evil? What is justice? These are 
 
 生命的意义是什么？什么是善与恶？什么是正义？这些是几个世纪以来哲学家们一直在问的一些问题。哲学是一个复杂而迷人的研究领域，有时对初学者来说似乎令人生畏。虽然没有一个人人都会同意的答案，但了解哲学中一些最基本的想法仍然很重要。以下是每个人都应该熟悉的十个常见的哲学概念，无论教育背景如何。
 
-## **1\. Plato’s Theory of Ideas 
+## 1\. Plato’s Theory of Ideas 
 
-1.柏拉图的思想理论**
+1.柏拉图的思想理论
 
 ![gustave courbet la grotte de la lue painting](gustave-courbet-la-grotte-de-la-lue-painting.jpg)
 
@@ -44,9 +44,9 @@ Developing Platonic ideas, philosophers of later times reached the concept of th
 
 后来的哲学家们发展了柏拉图式的思想，达成了超越性和 "物自体 "的概念。
 
-## **2\. The Concept of Introspection  
+## 2\. The Concept of Introspection  
 
-2.反省的概念**
+2.反省的概念
 
 ![van gogh self portrait painting](van-gogh-self-portrait-painting.jpg)
 
@@ -66,9 +66,9 @@ The method of introspection helps to keep track of the stages of thinking, break
 
 反省的方法有助于跟踪思考的各个阶段，将感觉分解为各种元素，并提供思想和行动之间关系的完整图景。内省教会我们更抽象、更广泛地思考，例如，把 "大红苹果 "看作是红色的感觉，取而代之的是圆形的印象和一丝味觉的感觉。但不要过于深入地反省--过度关注跟踪自己的印象会使对现实的感知变得迟钝。
 
-## **3\. The Concept of Solipsism  
+## 3\. The Concept of Solipsism  
 
-3.孤独主义的概念**
+3.孤独主义的概念
 
 ![author unknown mysterious stranger illustration](author-unknown-mysterious-stranger-illustration.jpg)
 
@@ -96,9 +96,9 @@ In other words, no person can be sure of the existence of anything outside of th
 
 换句话说，没有人能够确定他们意识之外的任何东西的存在。孤独主义与其说是对现实存在的怀疑，不如说是对自己心灵作用的重要性的认识。孤独主义的概念要么需要被原封不动地吸收，要么接受 "反向的孤独主义"，即给自己一个相对外部世界的合理解释，并证明这个外部世界为什么仍然存在。
 
-## **4\. The Theodicy: The Attempt to Vindicate God  
+## 4\. The Theodicy: The Attempt to Vindicate God  
 
-4.4. Theodicy:试图为上帝辩护**
+4.4. Theodicy:试图为上帝辩护
 
 ![sandro botticelli sant_agostino painting](sandro-botticelli-sant_agostino-painting.jpg)
 
@@ -122,9 +122,9 @@ One of the main ideas of theodicy is that God created the best of all possible w
 
 神论的主要观点之一是，上帝创造了所有可能的世界中最好的世界，因此，只有最好的才会被收集在其中，而这个世界上邪恶的存在只被认为是道德多样性需求的结果。是否承认odicy是一个与个人信仰有关的个人问题，但这一概念当然值得探讨。
 
-## **5\. Moral Relativism  
+## 5\. Moral Relativism  
 
-5.道德相对论**
+5.道德相对论
 
 ![frederic shoberl hindoo woman painting](frederic-shoberl-hindoo-woman-painting.jpg)
 
@@ -144,9 +144,9 @@ The philosophical doctrine of “permissiveness” recognizes each individual’
 
 允许性 "的哲学理论承认每个人都有权形成自己的价值体系和自己对善恶类别的想法，并允许我们断言道德在本质上是一个相对概念。
 
-## **6\. Categorical Imperative or the Golden Rule of Morality  
+## 6\. Categorical Imperative or the Golden Rule of Morality  
 
-6.绝对命令或道德的黄金法则**
+6.绝对命令或道德的黄金法则
 
 ![rembrandt peale court of death painting](rembrandt-peale-court-of-death-painting.jpg)
 
@@ -166,9 +166,9 @@ According to this ethical concept, a person must act according to the maxim, whi
 
 根据这一伦理观念，一个人必须按照格言行事，在他看来，格言可以成为一种普遍的法律。此外，在这一概念的框架内，康德提议不要把他人视为达到目的的手段，而是把他们视为最终目标。当然，这样的方法不会使我们免于犯错，但如果你认为每次你的选择不仅是为了你自己，也是为了全人类，那么决定就会变得更加自觉。
 
-## **7\. Determinism/Indeterminism: Are Our Fates Sealed?  
+## 7\. Determinism/Indeterminism: Are Our Fates Sealed?  
 
-7.决定论/非决定论。我们的命运被封住了吗？**
+7.决定论/非决定论。我们的命运被封住了吗？
 
 ![jon krause free will illustration philosophical concepts](jon-krause-free-will-illustration.jpg)
 
@@ -188,9 +188,9 @@ Within the framework of the doctrine of determinism, no events are considered ra
 
 在决定论的框架内，没有任何事件被认为是随机的，而是预先决定的、但人所不知的一连串事件的结果。决定论排除了对自由意志的信仰，在自由意志中，所有行为的责任都在于人本身，而迫使个人将自己的命运完全托付给外部世界的因果性、规律性和全能性。正因为如此，决定论对于那些不想为自己负责的人来说是一个方便的想法。
 
-## **8\. Cogito Ergo Sum: I Think, Therefore I Am  
+## 8\. Cogito Ergo Sum: I Think, Therefore I Am  
 
-8.Cogito Ergo Sum:我想，所以我是**
+8.Cogito Ergo Sum:我想，所以我是
 
 ![jonas suyderhoff rene descartes portrait philosophical concepts](jonas-suyderhoff-rene-descartes-portrait.jpg)
 
@@ -204,9 +204,9 @@ René Descartes, Jonas Suyderhoff, 1650s, via National Gallery of Art
 
 笛卡尔质疑一切：外部世界、他的感觉、上帝和公众意见。唯一不能质疑的是自己的存在，因为怀疑自己存在的过程本身就是对自己存在的证明。因此出现了这样的公式。"我疑，故我思；我思，故我在"，这句话被转化为 "我思，故我在"--这句话成为现代哲学的形而上学基础。它宣告了主体的主导地位，围绕它可以建立可靠的知识。
 
-## **9\. “God Is Dead”  
+## 9\. “God Is Dead”  
 
-9."上帝已死"**
+9."上帝已死"
 
 ![edvard munch friedrich nietzsche portrait](edvard-munch-friedrich-nietzsche-portrait.jpg)
 
@@ -222,9 +222,9 @@ In saying “God is dead,” [Nietzsche](https://www.thecollector.com/nietzsche-
 
 尼采说 "上帝死了"，并不是在字面意义上暗示上帝的死亡。他的意思是，在传统社会中，上帝的存在是一个事实；他与人们处在一个单一的现实中。但在现代性时代，他不再是外部现实的一部分，而是成为一种内在的理念。这造成了价值体系的危机，而这个体系以前是基于基督教世界观的。这意味着现在是修订这个系统的时候了--事实上，这正是后现代性的哲学和文化正在做的。
 
-## **10\. Existential Crisis: A Contemporary Philosophical Concept  
+## 10\. Existential Crisis: A Contemporary Philosophical Concept  
 
-10.存在主义危机。一个当代的哲学概念**
+10.存在主义危机。一个当代的哲学概念
 
 ![benton spruance to freedom painting philosophical concepts](benton-spruance-to-freedom-painting.jpg)
 
