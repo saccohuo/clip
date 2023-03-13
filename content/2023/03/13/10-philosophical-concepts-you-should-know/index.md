@@ -18,7 +18,7 @@ What is the meaning of life? What are good and evil? What is justice? These are 
 
 生命的意义是什么？什么是善与恶？什么是正义？这些是几个世纪以来哲学家们一直在问的一些问题。哲学是一个复杂而迷人的研究领域，有时对初学者来说似乎令人生畏。虽然没有一个人人都会同意的答案，但了解哲学中一些最基本的想法仍然很重要。以下是每个人都应该熟悉的十个常见的哲学概念，无论教育背景如何。
 
-## **1\. Plato’s Theory of Ideas  
+## **1\. Plato’s Theory of Ideas 
 
 1.柏拉图的思想理论**
 

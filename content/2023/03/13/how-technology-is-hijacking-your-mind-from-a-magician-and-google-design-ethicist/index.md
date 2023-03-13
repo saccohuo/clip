@@ -1,5 +1,5 @@
 ---
-title: "技术是如何劫持你的思想的 |作者：Tristan Harris|Thrive Global|Medium"
+title: "技术是如何劫持你的思想的?"
 date: 2023-03-13T16:35:19+08:00
 updated: 2023-03-13T16:35:19+08:00
 taxonomies:
