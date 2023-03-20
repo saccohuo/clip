@@ -5,6 +5,7 @@ description = "DemoChen's Clip"
 src = "content"
 language = "zh"
 authors = ["DemoChen"]
+additional-css = ["custom.css"]
 
 [output.html]
 default-theme = "rust"

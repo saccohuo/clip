@@ -2,6 +2,7 @@
 import * as fs from "https://deno.land/std@0.159.0/fs/mod.ts";
 import { extract } from "https://deno.land/std@0.159.0/encoding/front_matter.ts";
 import { DateTimeFormatter } from "https://deno.land/std@0.159.0/datetime/formatter.ts";
+import { copy } from "https://deno.land/std@0.180.0/fs/copy.ts";
 import * as path from "https://deno.land/std@0.159.0/path/mod.ts";
 import { Feed, FeedOptions } from "https://esm.sh/feed@4.2.2";
 import {
@@ -401,7 +402,9 @@ async function main() {
         if (title && extra && extra.original_title) {
           // is same
           if (title !== extra.original_title) {
-            markdownContent += `原文标题：**${extra.original_title}**\n\n`;
+            // markdownContent += `原文标题：**${extra.original_title}**\n\n`;
+            markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>`;
+
           }
         }
       }
@@ -412,9 +415,7 @@ async function main() {
       if (chapter.frontMatter) {
         const extra = chapter.frontMatter.extra;
         if (extra && extra.source) {
-          //markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
-          markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>`;
-
+          markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
         }
       }
       targetMarkdownFiles[chapter.relativePath] = markdownContent;
@@ -563,18 +564,16 @@ async function main() {
 
     let summary = `# Summary\n\n`;
     if (book.introduction) {
-      summary += `[${book.introduction.title}](${
-        formatMarkdownPath(book.introduction.path)
-      })\n\n`;
+      summary += `[${book.introduction.title}](${formatMarkdownPath(book.introduction.path)
+        })\n\n`;
     }
     for (const section of book.summary) {
       summary += `- [${section.title}](${formatMarkdownPath(section.path)})\n`;
 
       if (section.subSections) {
         for (const subSection of section.subSections) {
-          summary += `  - [${subSection.title}](${
-            formatMarkdownPath(subSection.path)
-          })\n`;
+          summary += `  - [${subSection.title}](${formatMarkdownPath(subSection.path)
+            })\n`;
         }
       }
     }
@@ -655,9 +654,8 @@ async function main() {
 
           dayNoteContent += `- [${subSection.title}](${subSection.source})`;
           if (subSection.title !== subSection.originalTitle) {
-            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${
-              subSection.path.slice(0, -8)
-            }))`;
+            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${subSection.path.slice(0, -8)
+              }))`;
           }
           dayNoteContent += "\n";
         }
@@ -742,6 +740,15 @@ ${body}
     );
     const bookTomlPath = path.join(bookSourceFileDist, "book.toml");
     await Deno.writeTextFile(bookTomlPath, bookToml);
+
+    // copy static file to dist
+
+    const staticPath = path.join(workDir, "static");
+    const staticDistPath = path.join(bookSourceFileDist);
+
+    await copy(staticPath, staticDistPath, {
+      overwrite: true,
+    });
     console.log(`build book ${key} source files success`);
     const p = Deno.run({
       cmd: ["../../bin/mdbook", "build"],
@@ -766,8 +773,7 @@ ${body}
       await fs.ensureDir(distDir);
       const epubNewPath = path.join(
         distDir,
-        `${
-          slug(originalBookConfig.book.title as string)
+        `${slug(originalBookConfig.book.title as string)
         }-${keyType}-${key}.epub`,
       );
       await Deno.copyFile(epubPath, epubNewPath);
@@ -786,8 +792,7 @@ ${body}
           "-q",
           path.join(
             distDir,
-            `${
-              slug(originalBookConfig.book.title as string)
+            `${slug(originalBookConfig.book.title as string)
             }-${keyType}-${key}-html.zip`,
           ),
           "./",
