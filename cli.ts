@@ -403,7 +403,7 @@ async function main() {
           // is same
           if (title !== extra.original_title) {
             // markdownContent += `原文标题：**${extra.original_title}**\n\n`;
-            markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>`;
+            markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>\n\n`;
 
           }
         }
