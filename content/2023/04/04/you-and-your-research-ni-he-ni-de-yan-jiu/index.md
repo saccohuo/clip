@@ -14,33 +14,9 @@ extra:
 
 ## Richard Hamming
 
-Transcription of the  
+Transcription of the  Bell Communications Research Colloquium Seminar  
 
-抄写  
-
-Bell Communications Research Colloquium Seminar  
-
-贝尔通信研究座谈会研讨会  
-
-7 March 1986  
-
-1986年3月7日
-
-J. F. Kaiser  
-
-J.F. Kaiser  
-
-Bell Communications Research  
-
-贝尔通信研究公司  
-
-445 South Street  
-
-Morristown, NJ 07962-1910  
-
-莫里斯敦，新泽西州 07962-1910  
-
-[jfk@bellcore.com](mailto:jfk@bellcore.com)
+7 March 1986 J. F. Kaiser Bell Communications Research  445 South Street  Morristown, NJ 07962-1910 
 
 At a seminar in the Bell Communications Research Colloquia Series, Dr. Richard W.  
 
