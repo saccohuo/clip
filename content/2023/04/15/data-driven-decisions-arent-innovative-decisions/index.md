@@ -1,5 +1,5 @@
 ---
-title: ""数据驱动 "的决策并不是创新的决策"
+title: "数据驱动的决策并不是创新的决策"
 date: 2023-04-15T11:20:31+08:00
 updated: 2023-04-15T11:20:31+08:00
 taxonomies:
@@ -8,7 +8,7 @@ extra:
   source: https://stackoverflow.blog/2023/04/03/data-driven-decisions-arent-innovative-decisions/
   hostname: stackoverflow.blog
   author: Ryan Donovan
-  original_title: ""Data driven" decisions aren't innovative decisions"
+  original_title: "Data drivendecisions aren't innovative decisions"
   original_lang: en
 ---
 
