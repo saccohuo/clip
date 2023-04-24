@@ -12,19 +12,7 @@ extra:
   original_lang: en
 ---
 
-Microsoft最近推出了一款名为Copilot的AI代码编辑器，它可以与开发人员一起编写代码。Copilot使用了OpenAI的GPT模型，可以根据上下文和注释生成代码。这篇文章介绍了Copilot的设计过程和背后的思想。
-
-关键点：
-- Copilot是一款AI代码编辑器，可以与开发人员一起编写代码。
-- Copilot使用了OpenAI的GPT模型，可以根据上下文和注释生成代码。
-- 设计团队的目标是让Copilot成为一个有用的工具，而不是完全取代开发人员。
-- Copilot的设计灵感来自于开发人员的日常工作和他们的需求。
-- 设计团队采用了用户中心的设计方法，与开发人员合作，以确保Copilot能够满足他们的需求。
-- Copilot的设计重点是简单性、可靠性和可用性。
-
----
-
-_When the system is the product; on crafting the next generation of user experiences  
+When the system is the product; on crafting the next generation of user experiences  
 
 当系统就是产品时；打造下一代的用户体验_
 
