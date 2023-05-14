@@ -5,7 +5,7 @@ updated: 2023-05-12T08:10:45+08:00
 taxonomies:
   tags: []
 extra:
-  source: https://buttondown.email/hillelwayne/archive/tag-systems/?ref=eleanorkonik.com
+  source: https://buttondown.email/hillelwayne/archive/tag-systems/
   hostname: buttondown.email
   author: 
   original_title: "Tag Systems"
@@ -308,9 +308,9 @@ Even so, if you really want to get deep into the nuances of information classifi
 -   [Authority Control](https://ac.bslw.com/community/blog/2010/05/why-is-authority-control-important/)
 -   [Metadata](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)
 
-_[Thanks again to me for sponsoring this newsletter](https://www.eventbrite.com/e/software-modeling-with-tla-workshop-tickets-520030754987?aff=email).  
+[Thanks again to me for sponsoring this newsletter](https://www.eventbrite.com/e/software-modeling-with-tla-workshop-tickets-520030754987?aff=email).  
 
-再次感谢我赞助这份时事通讯。_
+再次感谢我赞助这份时事通讯。
 
 ___
 

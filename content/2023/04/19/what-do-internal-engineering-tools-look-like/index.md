@@ -11,9 +11,6 @@ extra:
   original_title: "What do internal engineering tools look like?"
   original_lang: en
 ---
-
-Summary: 
-
 内部工程工具是指公司内部使用的软件和工具，用于帮助工程师更高效地完成工作。这些工具通常是定制化的，以满足公司的特定需求。本文介绍了内部工程工具的一些常见特点和使用场景。
 
 Key points (关键点):

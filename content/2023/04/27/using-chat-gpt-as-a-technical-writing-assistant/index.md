@@ -12,7 +12,7 @@ extra:
   original_lang: en
 ---
 
-Summary: 本文介绍了作者在使用 ChatGPT 作为写作助手时的目标和期望，以及在撰写 Thoughtworks 技术雷达时的具体应用。同时，文章还探讨了网络钩子的安全问题和应对措施。
+本文介绍了作者在使用 ChatGPT 作为写作助手时的目标和期望，以及在撰写 Thoughtworks 技术雷达时的具体应用。同时，文章还探讨了网络钩子的安全问题和应对措施。
 
 Key points:
 1. 作者使用 ChatGPT 作为写作助手，希望能够更高效地撰写技术文章。

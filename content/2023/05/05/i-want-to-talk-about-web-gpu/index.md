@@ -12,7 +12,7 @@ extra:
   original_lang: en
 ---
 
-Summary: WebGPU 是新的 WebGL，可以在网络浏览器中绘制 3D 的新方法。它可能取代 Canvas 成为新的绘制 2D 的方式，并成为标准绘画方式。WebGPU 已经在 Chrome 113 中上线，到年底将在每个浏览器中无处不在。本文介绍了图形 API 的历史，以及 WebGPU 的使用和优势。
+WebGPU 是新的 WebGL，可以在网络浏览器中绘制 3D 的新方法。它可能取代 Canvas 成为新的绘制 2D 的方式，并成为标准绘画方式。WebGPU 已经在 Chrome 113 中上线，到年底将在每个浏览器中无处不在。本文介绍了图形 API 的历史，以及 WebGPU 的使用和优势。
 
 文章要点:
 1. WebGPU 是新的 WebGL，可以在网络浏览器中绘制 3D 的新方法。
