@@ -5,7 +5,7 @@ updated: 2023-05-16T16:44:58+08:00
 taxonomies:
   tags: []
 extra:
-  source: https://www.palladiummag.com/2023/04/06/birth-rates-are-collapsing?utm_source=DenseDiscovery&utm_medium=email&utm_campaign=issue-238
+  source: https://www.palladiummag.com/2023/04/06/birth-rates-are-collapsing
   hostname: www.palladiummag.com
   author: 
   original_title: "Fertility Collapse Demands New Cultures"
