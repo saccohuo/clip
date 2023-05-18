@@ -1,5 +1,5 @@
 ---
-title: "阿米莉亚瓦滕伯格"
+title: "为什么聊天机器人不是未来"
 date: 2023-05-16T16:58:21+08:00
 updated: 2023-05-16T16:58:21+08:00
 taxonomies:
@@ -8,7 +8,7 @@ extra:
   source: https://wattenberger.com/thoughts/boo-chatbots
   hostname: wattenberger.com
   author: Amelia Wattenberger
-  original_title: "Amelia Wattenberger"
+  original_title: "Why Chatbots Are Not the Future "
   original_lang: zh
 ---
 
