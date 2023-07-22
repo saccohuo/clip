@@ -1,5 +1,5 @@
 ---
-title: "How to Do Great Work"
+title: "如何做好工作？"
 date: 2023-07-22T19:20:20+08:00
 updated: 2023-07-22T19:20:20+08:00
 taxonomies:
