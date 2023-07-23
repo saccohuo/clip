@@ -1,7 +1,7 @@
 ---
-title: "CTO Insights"
-date: 2023-07-23T22:59:06+08:00
-updated: 2023-07-23T22:59:06+08:00
+title: "CTO 洞察 - 第 133 期 - 作者：Tosho Trajanov"
+date: 2023-07-23T23:16:36+08:00
+updated: 2023-07-23T23:16:36+08:00
 taxonomies:
   tags: []
 extra:
@@ -114,7 +114,11 @@ I hope you enjoyed this week’s issue. Use the thumbs up/down buttons to rate a
 
 我希望你喜欢本周的期刊。使用大拇指向上/向下按钮进行评价，不要忘记与伙伴们分享通讯。
 
-### Subscribe to CTO Insights 订阅《首席技术官观察CTO Insights
+### Subscribe to CTO Insights 订阅《首席技术官观察 首席技术官见解CTO Insights
+
+By Tosho Trajanov · Launched 7 months ago  
+
+作者：Tosho Trajanov - 7 个月前发布 \- 7 个月前推出 · Launched 7 months agoLaunched 7 months ago
 
 Software Engineering & Technical Leadership.  
 

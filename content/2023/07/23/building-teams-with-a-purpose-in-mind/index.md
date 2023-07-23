@@ -1,7 +1,7 @@
 ---
-title: "Building teams with a purpose in mind"
-date: 2023-07-23T22:54:55+08:00
-updated: 2023-07-23T22:54:55+08:00
+title: "以目标为导向打造团队 - 作者：Gregor Ojstersek"
+date: 2023-07-23T23:18:47+08:00
+updated: 2023-07-23T23:18:47+08:00
 taxonomies:
   tags: []
 extra:

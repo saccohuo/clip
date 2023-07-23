@@ -1,7 +1,7 @@
 ---
-title: "Using Spaced Repetition and Active Recall with Books to Hack Your Brain"
-date: 2023-07-23T23:00:10+08:00
-updated: 2023-07-23T23:00:10+08:00
+title: "利用间隔重复和主动回忆图书来 "黑 "你的大脑"
+date: 2023-07-23T23:16:46+08:00
+updated: 2023-07-23T23:16:46+08:00
 taxonomies:
   tags: []
 extra:
