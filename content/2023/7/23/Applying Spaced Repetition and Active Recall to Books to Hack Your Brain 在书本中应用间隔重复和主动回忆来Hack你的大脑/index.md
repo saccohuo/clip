@@ -1,3 +1,16 @@
+---
+created: 2023-07-23T13:34:37 (UTC +08:00)
+tags: []
+source: https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/
+author: Daniel Doyon
+---
+
+# Using Spaced Repetition and Active Recall with Books to Hack Your Brain --- 利用书本的间隔重复和主动回忆来改造你的大脑
+
+> ## Excerpt
+> Mastery is our Readwise term for the one-two punch of active recall and spaced repetition applied to the notes and highlights you take while reading.
+
+---
 One of my favorite scenes in _The Matrix_ is when Tank the operator hooks up Neo to a brain-computer interface and starts uploading all kinds of skills directly into his mind. In seconds, Neo becomes a kung fu master.  
 在《黑客帝国》中，我最喜欢的场景之一是操作员坦克将尼奥连接到一个脑机接口上，并开始将各种技能直接上传到他的大脑中。几秒钟后，尼奥就变成了功夫大师。
 
