@@ -1,14 +1,14 @@
-base_url = "https://clip.demochen.com/"
+base_url = "https://myclips.vercel.app/"
 [book]
-title = "DemoChen's Clip"
-description = "DemoChen's Clip"
+title = "Leo's Clip"
+description = "Leo's Clip"
 src = "content"
 language = "zh"
-authors = ["DemoChen"]
+authors = ["Leo"]
 
 [output.html]
 default-theme = "rust"
-git-repository-url = "https://github.com/helloChenLei/clip"
+git-repository-url = "https://github.com/saccohuo/clip"
 # edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 additional-css = ["custom.css"]
 
