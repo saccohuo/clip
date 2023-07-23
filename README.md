@@ -1,9 +1,3 @@
-# hi, DemoChen's Clip
-
-<img src="./cover.jpg" width = "" height = "400" alt="DemoChen's Clip" />
-
-<br/>
-
 在《
 <a href="https://demochen.com/posts/111501/" target="_blank">高效阅读英语信息的方法</a>
 》中提到，我英语信息源占比越来越大，同时在
