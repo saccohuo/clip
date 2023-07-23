@@ -1,7 +1,7 @@
 ---
-title: "在书本中应用间隔重复和主动回忆来hack你的大脑 Using Spaced Repetition and Active Recall with Books to Hack Your Brain"
-date: 2023-07-23T14:15:21+08:00
-updated: 2023-07-23T14:15:21+08:00
+title: "Using Spaced Repetition and Active Recall with Books to Hack Your Brain"
+date: 2023-07-23T23:00:10+08:00
+updated: 2023-07-23T23:00:10+08:00
 taxonomies:
   tags: []
 extra:
@@ -16,7 +16,7 @@ One of my favorite scenes in _The Matrix_ is when Tank the operator hooks up Neo
 
 在《黑客帝国》中，我最喜欢的场景之一是操作员坦克将尼奥连接到一个脑机接口上，并开始将各种技能直接上传到他的大脑中。几秒钟后，尼奥就变成了功夫大师。
 
-![I know kung fu](https://s3.amazonaws.com/readwiseio/2019/07/i-know-kung-fu.gif)
+![I know kung fu](i-know-kung-fu.gif)
 
 I've always imagined nonfiction books to be kind of like those hand-labeled "skill cartridges" scattered about the Nebuchadnezzar. After all, writing such a book is the act of compressing months if not years of accumulated knowledge, wisdom, and expertise into a cohesive text that can be consumed in mere hours.  
 
@@ -92,7 +92,7 @@ The rephrasing of the _Make It Stick_ quote above is often referred to as _quest
 
 上述 "Make It Stick "引文的重述通常被称为问答，或简称Q&A。虽然问答是主动记忆的最高境界，因此我们不能不将其作为 "掌握 "功能的一部分加以支持，但创建这些问答对子却有些费力。因此，您可能会将问答保留给最精选的重点内容和最有影响力的书籍。
 
-![difference between knohow and knowledge](https://s3.amazonaws.com/readwiseio/2019/09/q-a-mastery-card.gif)
+![difference between knohow and knowledge](q-a-mastery-card.gif)
 
 As a more everyday alternative, you can also employ a deceptively simple technique known as [cloze deletion](https://en.wikipedia.org/wiki/Cloze_test). With cloze deletion, a salient keyword or keyphrase is hidden from the passage, giving you an opportunity to pause and consider the missing word. For example:  
 
@@ -154,7 +154,7 @@ Whenever you come across a highlight you want to master, hit the Master button (
 
 每当您遇到想要掌握的重点内容时，点击 "掌握 "按钮（或键盘快捷键： `m` ），选择 "掐头去尾 "或 "问答"，将之前的被动段落转换为主动回忆。
 
-![cloze deletion in Readwise](https://s3.amazonaws.com/readwiseio/2019/09/cloze-deletion.gif)
+![cloze deletion in Readwise](cloze-deletion.gif)
 
 You'll then be prompted with the spaced repetition buttons. If you want to see the highlight soon — because it's particularly insightful, relevant to your life right now, or hard to remember — choose `Soon`. If you want to see the highlight again but there's no immediate urgency, choose `Eventually`.  
 
@@ -164,7 +164,7 @@ You'll see this Mastery card again in your Daily Readwise in approximately one t
 
 大约一至四周后，您将在每日阅读中再次看到这张掌握卡（取决于您提供的间隔重复反馈以及其他掌握卡的优先级）。
 
-![reveal active recall phrase](https://s3.amazonaws.com/readwiseio/2019/09/reveal-keyphrase.gif)
+![reveal active recall phrase](reveal-keyphrase.gif)
 
 Going forward, your Daily Readwise will be divided into two halves. The first half will contain _unprocessed_ highlights which have never been reviewed before in Readwise or haven't been converted to Mastery cards. These highlights are resurfaced stochastically (i.e., at random).  
 
@@ -174,7 +174,7 @@ Note that you can manually "tune" the probability weights for each book and arti
 
 请注意，您可以通过 "首选项 "页面手动 "调整 "每本书和每篇文章的概率权重，拨入上述随机算法。如果您有大量的重点内容，强烈建议您这样做。调整就像为您自己的资料设置一个自定义算法馈送，可以随着您兴趣的变化而反复调整。
 
-![tuning your books](https://s3.amazonaws.com/readwiseio/2019/08/tuning.gif)
+![tuning your books](tuning.gif)
 
 The second half of your Daily Readwise will contain your Mastery cards. These are resurfaced according to a spaced repetition algorithm and presented in active recall form. As with the initial creation of the Mastery card, once you're finished each review, you provide spaced repetition feedback informing how soon and how often you'd like to see that card in the future.<sup data-immersive-translate-effect="1" data-immersive-translate-mark="1" data-immersive-translate-paragraph-id="52"><a href="https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/#fn2" id="fnref2">[2]</a></sup>  
 
