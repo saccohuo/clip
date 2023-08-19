@@ -1,5 +1,5 @@
 ---
-title: "专访驻校执行官 Joanna Lord | Fellow.app"
+title: "专访特约顾问EIR Joanna Lord | Fellow.app"
 date: 2023-08-08T23:35:40+08:00
 updated: 2023-08-08T23:35:40+08:00
 taxonomies:
