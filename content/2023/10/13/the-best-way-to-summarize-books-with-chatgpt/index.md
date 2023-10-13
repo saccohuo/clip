@@ -1,5 +1,5 @@
 ---
-title: "YTScribe | YTScribe"
+title: "The BEST Way to Summarize Books with ChatGPT 用 ChatGPT 总结书籍的最佳方法| YTScribe"
 date: 2023-10-13T17:00:08+08:00
 updated: 2023-10-13T17:00:08+08:00
 taxonomies:

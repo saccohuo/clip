@@ -1,5 +1,5 @@
 ---
-title: "YTScribe | YTScribe"
+title: "Progressive Summarization Explained | Building a Second Brain Course Preview 渐进式摘要法详解 | 打造第二大脑 课程预览 | YTScribe"
 date: 2023-10-13T17:04:19+08:00
 updated: 2023-10-13T17:04:19+08:00
 taxonomies:
