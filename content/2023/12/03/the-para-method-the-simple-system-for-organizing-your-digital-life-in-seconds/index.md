@@ -61,7 +61,7 @@ PARA is based on a simple observation: that there are only four categories that 
 
 PARA 基于一个简单的观点：只有四个类别可以涵盖生活中的所有信息。
 
-![PARA explained](3-BASB_Illos_Gray_211015_PARA-1024x537.jpg)
+![PARA explained](3-BASB_Illos_Gray_211015_PARA-1024x537.png)
 
 You have **projects** you’re actively working on – short-term efforts (in your work or personal life) that you take on with a certain goal in mind. For example:  
 
@@ -125,7 +125,7 @@ And that’s it! Four top-level folders – Projects, Areas, Resources, and Arch
 
 就是这样！四个顶级文件夹--项目、领域、资源和档案--每个文件夹都包含少量子文件夹，专门用于你生活中的每个活动项目、责任领域、资源和档案。
 
-![](PARA-blog-post-PARA-hierarchy-1024x576.jpeg)
+![](PARA-blog-post-PARA-hierarchy-1024x576.png)
 
 It may be difficult to believe that a complex, modern human life like yours can be reduced to just four categories. It may feel like you have far more to deal with than can fit into such a simple system.  
 
@@ -285,7 +285,7 @@ No matter how wide-ranging your responsibilities are, you can _always_ break the
 
 无论你的职责范围有多大，你总能把它们分解成更小的项目。如果你想知道自己是否真正朝着目标取得了进展，你就必须这样做。
 
-![The PARA Method book cover](The-PARA-Method-Cover-230x300.jpg)
+![The PARA Method book cover](The-PARA-Method-Cover-230x300.png)
 
 ## The Actionable Guide to implementing the PARA Method is out!  
 
